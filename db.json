@@ -1,0 +1,3278 @@
+{
+    "products": [
+     
+      {
+        "id": 1,
+        "title": "Adidas Classic Backpack",
+        "price": 39.95,
+        "description": "A simple yet spacious Adidas backpack with adjustable shoulder straps and a front zip pocket.",
+        "category": "men's clothing",
+        "color": "red",
+        "size": "small",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/dddcdca88d3043e6ae04521ef2ee8c50_9366/Adicolor_Backpack_Burgundy_IX7455_01_standard.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 150
+        }
+      },
+      {
+        "id": 2,
+        "title": "Nike Sportswear Backpack",
+        "price": 45.99,
+        "description": "Durable Nike backpack designed for sports and daily use. Features multiple compartments and a comfortable back panel.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20210729/WOYS/6102ce38f997ddb3123f4229/-473Wx593H-460899217-black-MODEL2.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 80
+        }
+      },
+      {
+        "id": 3,
+        "title": "Puma Unisex Backpack",
+        "price": 49.99,
+        "description": "Versatile Puma backpack, perfect for school or travel. Features a main compartment and side pockets for bottles.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/81oOez-DdUL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 120
+        }
+      },
+      {
+        "id": 4,
+        "title": "Under Armour Hustle 4.0 Backpack",
+        "price": 64.99,
+        "description": "A stylish and functional backpack from Under Armour. Padded laptop sleeve and water-resistant fabric.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20201029/9t3v/5f99ce3ef997dd8c837da9aa/-473Wx593H-460754215-black-MODEL.jpg",
+        "rating": {
+          "rate": 4.8,
+          "count": 200
+        }
+      },
+      {
+        "id": 5,
+        "title": "Eastpak Padded Pak'r Backpack",
+        "price": 70.00,
+        "description": "A classic and durable backpack by Eastpak. Great for everyday use with ample storage space.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjx63RNr9L91lU0JkZQi_hEkSK7ZuWpyHyg&s",
+        "rating": {
+          "rate": 4.5,
+          "count": 180
+        }
+      },
+      {
+        "id": 6,
+        "title": "The North Face Jester Backpack",
+        "price": 55.99,
+        "description": "This stylish backpack from The North Face features ergonomic shoulder straps and a padded laptop sleeve.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/91bBW1+3JJL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 210
+        }
+      },
+      {
+        "id": 7,
+        "title": "Samsonite Openroad Laptop Backpack",
+        "price": 89.95,
+        "description": "A premium laptop backpack from Samsonite with RFID blocking and a padded sleeve for laptops up to 15 inches.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://i.pinimg.com/736x/7c/65/84/7c65847d8868945600b2150061fc26a7.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 170
+        }
+      },
+      {
+        "id": 8,
+        "title": "Fjällräven Kånken Backpack",
+        "price": 80.00,
+        "description": "Classic Fjällräven Kånken backpack, perfect for outdoor adventures and daily wear. Features a spacious main compartment.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "medium",
+        "image": "https://modernquests.com/cdn/shop/files/fjallraven-kanken-laptop-backpack-15-ox-red-1.jpg?v=1690059881",
+        "rating": {
+          "rate": 4.7,
+          "count": 300
+        }
+      },
+      {
+        "id": 9,
+        "title": "Columbia Zigzag 2.0 Backpack",
+        "price": 55.00,
+        "description": "A durable and functional backpack for sports and outdoor activities. Includes a hydration sleeve.",
+        "category": "men's clothing",
+        "color": "blue",
+        "size": "large",
+        "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/Columbia/09jan2025/UU6312-465-1.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 130
+        }
+      },
+      {
+        "id": 10,
+        "title": "Herschel Little America Backpack",
+        "price": 89.00,
+        "description": "Timeless design by Herschel. A spacious and stylish backpack with adjustable straps.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9anoOAEQeZFsA4R2_6XkLliM7XFHwaRhuA&s",
+        "rating": {
+          "rate": 4.8,
+          "count": 250
+        }
+      },
+      {
+        "id": 11,
+        "title": "L.L. Bean Deluxe Book Pack",
+        "price": 49.95,
+        "description": "Classic L.L. Bean book pack designed for school, with plenty of compartments and sturdy build.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzC32Tq56WjZjUDfvd-44r3HlvOmQsf75Ctw&s",
+        "rating": {
+          "rate": 4.4,
+          "count": 90
+        }
+      },
+      {
+        "id": 12,
+        "title": "Targus CitySmart Backpack",
+        "price": 74.99,
+        "description": "Targus CitySmart backpack designed for business professionals with a padded compartment for laptops.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "large",
+        "image": "https://cluse.com/cdn/shop/files/CX04502_frontal.jpg?v=1723799450&width=1080",
+        "rating": {
+          "rate": 4.5,
+          "count": 160
+        }
+      },
+      {
+        "id": 13,
+        "title": "Jack Wolfskin Moab Jam 24 Backpack",
+        "price": 59.00,
+        "description": "A high-quality outdoor backpack from Jack Wolfskin. Perfect for hiking with hydration system compatibility.",
+        "category": "women's clothing",
+        "color": "grey",
+        "size": "large",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL52A3797dsLVoLIQLrYaHeiC53rHXUBLDwA&s",
+        "rating": {
+          "rate": 4.4,
+          "count": 110
+        }
+      },
+      {
+        "id": 14,
+        "title": "Patagonia Arbor Grande Backpack",
+        "price": 99.00,
+        "description": "Patagonia’s Arbor Grande backpack offers plenty of room and eco-friendly materials.",
+        "category": "unisex",
+        "color": "red",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoNHbYrqYsCU7xy7drZDei2XEtdQjnnCyZQ&s",
+        "rating": {
+          "rate": 4.7,
+          "count": 120
+        }
+      },
+      {
+        "id": 15,
+        "title": "Carhartt Legacy 17 Inch Laptop Backpack",
+        "price": 89.99,
+        "description": "Rugged Carhartt backpack for laptop protection, with extra durability for outdoor work and adventures.",
+        "category": "men's clothing",
+        "color": "brown",
+        "size": "large",
+        "image": "https://www.backpacks4less.com/cdn/shop/products/81k7QGwZONL_1024x1024.jpg?v=1578369560",
+        "rating": {
+          "rate": 4.5,
+          "count": 220
+        }
+      },
+      {
+        "id": 16,
+        "title": "Osprey Daylite Plus Backpack",
+        "price": 65.00,
+        "description": "Compact and functional backpack for day hikes and short trips. Compatible with Osprey’s hydration system.",
+        "category": "unisex",
+        "color": "grey",
+        "size": "small",
+        "image": "https://threadfellows.com/cdn/shop/products/osprey-bags-one-size-black-osprey-daylite-plus-backpack-28279248125975_1024x1024.jpg?v=1742390992",
+        "rating": {
+          "rate": 4.6,
+          "count": 140
+        }
+      },
+      {
+        "id": 17,
+        "title": "Eddie Bauer Stowaway Daypack",
+        "price": 39.95,
+        "description": "Packable Eddie Bauer backpack that folds into a small pouch for easy storage. Ideal for travel.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://i.pinimg.com/736x/e0/a7/5c/e0a75cf528914f6697f02d3b7062d211.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 130
+        }
+      },
+      {
+        "id": 18,
+        "title": "Deuter Aircontact Lite 45+10 Backpack",
+        "price": 179.00,
+        "description": "A high-performance hiking backpack by Deuter. Features Aircontact ventilation and plenty of space.",
+        "category": "unisex",
+        "color": "black",
+        "size": "large",
+        "image": "https://5.imimg.com/data5/EQ/JK/MY-40809949/deuter-trekking-aircontact-45-10-granite-black.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 85
+        }
+      },
+      {
+        "id": 19,
+        "title": "Timbuk2 Classic Messenger Bag",
+        "price": 109.00,
+        "description": "A classic messenger bag with durable materials and adjustable straps for comfort and convenience.",
+        "category": "unisex",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI15IbkXJZiahyeAZaPrNKih_HCSTxgi8YzQ&s",
+        "rating": {
+          "rate": 4.5,
+          "count": 140
+        }
+      },
+      {
+        "id": 20,
+        "title": "Targus Laptop Backpack",
+        "price": 39.99,
+        "description": "Affordable and practical Targus backpack with padded compartments for laptops and tablets.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "small",
+        "image": "https://m.media-amazon.com/images/I/61dUGkMvkwL._AC_UF1000,1000_QL80_.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 180
+        }
+      },
+      {
+        "id": 21,
+        "title": "High-Waisted Skinny Jeans",
+        "price": 39.99,
+        "description": "Classic high-waisted skinny jeans with a comfortable stretch fit. Perfect for casual outings.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://freakins.com/cdn/shop/files/Aniwarya01525-Edit_54ec0cce-3005-4ec8-abfb-c6781cb95cad.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 120
+        }
+    },
+    {
+      "id": 22,
+        "title": "Wide-Leg Palazzo Pants",
+        "price": 29.99,
+        "description": "Stylish wide-leg palazzo pants made from lightweight fabric. Ideal for both casual and formal occasions.",
+        "category": "women's clothing",
+        "color": "beige",
+        "size": "large",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230906/fkYp/64f837d1afa4cf41f5b8e084/-473Wx593H-461117763-beige-MODEL.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 95
+        }
+    },
+    {
+      "id": 23,
+        "title": "Athletic Jogger Pants",
+        "price": 34.99,
+        "description": "Comfortable jogger pants designed for workouts and lounging. Features an elastic waistband and side pockets.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "small",
+        "image": "https://lovableindia.in/cdn/shop/files/8905700069635-3.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 150
+        }
+    },
+    {
+      "id": 24,
+        "title": "Floral Print Culottes",
+        "price": 24.99,
+        "description": "Chic floral print culottes with a flowy design. Perfect for summer outings.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "medium",
+        "image": "https://wforwoman.com/cdn/shop/files/18FE61022-51304_5.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 85
+        }
+    },
+    {
+      "id": 25,
+        "title": "Leather Pencil Skirt",
+        "price": 49.99,
+        "description": "Elegant leather pencil skirt with a sleek finish. Suitable for office wear or evening events.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://cdn.sosandar.com/media/catalog/product/cache/0ad62aa88f50338ba969372be71afacb/w/e/web_2408_105_a24tw016gn0024_a23sl011bk0001_105_007_2_1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 60
+        }
+    },
+    {
+      "id": 26,
+        "title": "Denim Shorts",
+        "price": 19.99,
+        "description": "Casual denim shorts with a frayed hem. Perfect for summer days.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "small",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/short/m/v/3/28-mnt-3009-montrez-original-image2udjhyhcy4g-bb.jpeg",
+        "rating": {
+            "rate": 4.3,
+            "count": 110
+        }
+    },
+    {
+      "id": 27,
+        "title": "Pleated Midi Skirt",
+        "price": 35.99,
+        "description": "Elegant pleated midi skirt with a high-waisted fit. Great for formal occasions.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "medium",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/l0r1j0w0/skirt/f/a/c/xl-lskr08-735-dp-la-zoire-original-imagch25zpjnmha4.jpeg",
+        "rating": {
+            "rate": 4.5,
+            "count": 70
+        }
+    },
+    {
+      "id": 28,
+        "title": "Cotton Capri Pants",
+        "price": 22.99,
+        "description": "Lightweight cotton capri pants with a relaxed fit. Ideal for casual wear.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "large",
+        "image": "https://www.whitewhale.co.in/cdn/shop/products/71Ks608KpxL._UL1500_26d08cbb-9cdd-4a83-84d3-868198114427.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 90
+        }
+    },
+    {
+      "id": 29,
+        "title": "Ripped Boyfriend Jeans",
+        "price": 44.99,
+        "description": "Trendy ripped boyfriend jeans with a relaxed fit. Perfect for a casual look.",
+        "category": "women's clothing",
+        "color": "light blue",
+        "size": "medium",
+        "image": "https://images.bestsellerclothing.in/data/only/23-july-2022/132245001_g1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 130
+        }
+    },
+    {
+      "id": 30,
+        "title": "Printed Leggings",
+        "price": 18.99,
+        "description": "Comfortable printed leggings with a stretchy fit. Great for workouts or lounging.",
+        "category": "women's clothing",
+        "color": "multicolor",
+        "size": "small",
+        "image": "https://tunactive.com/cdn/shop/files/Copyof0C0A3986.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 140
+        }
+    },
+    {
+      "id": 31,
+        "title": "Corduroy A-Line Skirt",
+        "price": 32.99,
+        "description": "Stylish corduroy A-line skirt with button details. Perfect for autumn wear.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://m.media-amazon.com/images/I/81oYreTlkHL.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 75
+        }
+    },
+    {
+      "id": 32,
+        "title": "Linen Wide-Leg Pants",
+        "price": 27.99,
+        "description": "Breathable linen wide-leg pants with a relaxed fit. Ideal for summer.",
+        "category": "women's clothing",
+        "color": "khaki",
+        "size": "large",
+        "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/N09287s7.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 65
+        }
+    },
+    {
+      "id": 33,
+        "title": "Sequin Mini Skirt",
+        "price": 42.99,
+        "description": "Glamorous sequin mini skirt for parties and special occasions.",
+        "category": "women's clothing",
+        "color": "gold",
+        "size": "small",
+        "image": "https://images.fashiola.in/product-list/300x450/farfetch/102267306/sequin-embellished-fitted-mini-skirt.webp",
+        "rating": {
+            "rate": 4.7,
+            "count": 50
+        }
+    },
+    {
+      "id": 34,
+        "title": "Cargo Pants",
+        "price": 39.99,
+        "description": "Trendy cargo pants with multiple pockets. Perfect for a casual streetwear look.",
+        "category": "women's clothing",
+        "color": "olive",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20240802/yuTJ/66acb46a6f60443f31e49862/-473Wx593H-700248552-olive-MODEL.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 100
+        }
+    },
+    {
+      "id": 35,
+        "title": "Velvet Pencil Skirt",
+        "price": 36.99,
+        "description": "Luxurious velvet pencil skirt with a soft texture. Great for evening wear.",
+        "category": "women's clothing",
+        "color": "burgundy",
+        "size": "medium",
+        "image": "https://i.etsystatic.com/7164094/r/il/632112/1938087088/il_fullxfull.1938087088_gttk.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 55
+        }
+    },
+    {
+      "id": 36,
+        "title": "High-Waisted Trousers",
+        "price": 45.99,
+        "description": "Sophisticated high-waisted trousers with a tailored fit. Perfect for office wear.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "large",
+        "image": "https://cdn.shopify.com/s/files/1/1742/4023/files/H1221325-TAILORED-HIGH-WAIST-TROUSER-BLACK-SCANLANTHEODORE-1_4067b66a-c2ea-4244-abfd-f6e68aae95f6.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 80
+        }
+    },
+    {
+      "id": 37,
+        "title": "Denim Skirt",
+        "price": 28.99,
+        "description": "Classic denim skirt with a button-front design. Great for casual outings.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1719588244_9088537.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 95
+        }
+    },
+    {
+      "id": 38,
+        "title": "Faux Leather Leggings",
+        "price": 29.99,
+        "description": "Edgy faux leather leggings with a sleek finish. Perfect for a night out.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://spanx.com/cdn/shop/files/24371.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 110
+        }
+    },
+    {
+      "id": 39,
+        "title": "Wrap Maxi Skirt",
+        "price": 37.99,
+        "description": "Flowy wrap maxi skirt with a bohemian vibe. Ideal for summer vacations.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "large",
+        "image": "https://5.imimg.com/data5/ECOM/Default/2024/2/388021308/EV/DT/YK/199136748/53486434710-a85d8c5a0c-o-d-1000x1000-500x500.webp",
+        "rating": {
+            "rate": 4.3,
+            "count": 70
+        }
+    },
+    {
+      "id": 40,
+        "title": "Chino Pants",
+        "price": 33.99,
+        "description": "Classic chino pants with a slim fit. Perfect for casual and semi-formal wear.",
+        "category": "women's clothing",
+        "color": "navy",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20240314/K1Cv/65f315a005ac7d77bbb6a6ce/-473Wx593H-466717880-navy-MODEL.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 85
+        }
+    },
+    {
+      "id": 41,
+        "title": "Tulle Skirt",
+        "price": 26.99,
+        "description": "Whimsical tulle skirt with a layered design. Great for special occasions.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "small",
+        "image": "https://i.etsystatic.com/58440186/r/il/7aef9b/6751764480/il_fullxfull.6751764480_50lk.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 60
+        }
+    },
+    {
+      "id": 42,
+        "title": "Paperbag Waist Pants",
+        "price": 38.99,
+        "description": "Trendy paperbag waist pants with a tie belt. Perfect for a chic look.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230419/WGac/643fc431907deb497af1fa2e/-473Wx593H-469430657-olive-MODEL.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 75
+        }
+    },
+    {
+      "id": 43,
+        "title": "Plaid Mini Skirt",
+        "price": 31.99,
+        "description": "Preppy plaid mini skirt with a pleated design. Great for casual outings.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "small",
+        "image": "https://assets.ajio.com/medias/sys_master/root/h1c/hcd/13741457375262/-1117Wx1400H-440990298-red-MODEL.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 90
+        }
+    },
+    {
+      "id": 44,
+        "title": "Knitted Pencil Skirt",
+        "price": 34.99,
+        "description": "Cozy knitted pencil skirt with a stretchy fit. Perfect for winter wear.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "large",
+        "image": "https://i.etsystatic.com/28286353/r/il/db14fe/3336578435/il_570xN.3336578435_gsbn.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 65
+        }
+    },
+    {
+      "id": 45,
+        "title": "Cropped Culottes",
+        "price": 29.99,
+        "description": "Modern cropped culottes with a wide-leg fit. Great for casual and formal wear.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://gocolors.com/cdn/shop/files/LPZ6-BLACK73_3.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 80
+        }
+    },
+    {
+      "id": 46,
+        "title": "Silk Wrap Dress",
+        "price": 59.99,
+        "description": "Elegant silk wrap dress with a flattering fit and soft texture. Perfect for evening events and special occasions.",
+        "category": "women's clothing",
+        "color": "emerald green",
+        "size": "medium",
+        "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000015863964_437Wx649H_202212271708371.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 85
+        }
+    },
+    {
+      "id": 47,
+      "title": "Nike Men's Dry Training T-Shirt",
+      "price": 29.99,
+      "description": "Nike Dry Training T-shirt, moisture-wicking fabric that keeps you dry during workouts. Features a regular fit with a crew neck.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "medium",
+      "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/t-shirt/w/r/h/-original-imahy8bjca8pwh4w.jpeg",
+      "rating": {
+        "rate": 4.4,
+        "count": 180
+      }
+    },
+    {
+      "id": 48,
+      "title": "Adidas Men's Essentials 3-Stripes T-Shirt",
+      "price": 25.99,
+      "description": "Adidas Essentials 3-Stripes T-shirt featuring soft cotton for all-day comfort and a classic design with three-stripes along the shoulders.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://m.media-amazon.com/images/I/71ZNjEvzBJL.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 220
+      }
+    },
+    {
+      "id": 49,
+      "title": "Puma Men's Essentials T-Shirt",
+      "price": 19.99,
+      "description": "A comfortable and soft cotton T-shirt by Puma, perfect for casual wear. Features a logo print on the chest.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "small",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231012/5gPQ/6527aa8eafa4cf41f53d7f51/-473Wx593H-466393145-grey-MODEL.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 150
+      }
+    },
+    {
+      "id": 50,
+      "title": "Under Armour Tech 2.0 T-Shirt",
+      "price": 24.99,
+      "description": "Under Armour's Tech 2.0 T-shirt offers a lightweight, quick-drying material. Designed for athletes with moisture-wicking technology.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "large",
+      "image": "https://images-cdn.ubuy.co.in/66317b4e11389165b9262cb5-under-armour-ua-tech-2-0.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 130
+      }
+    },
+    {
+      "id": 51,
+      "title": "Reebok Men's Classic T-Shirt",
+      "price": 18.99,
+      "description": "Reebok men's T-shirt made from soft cotton. Features the classic Reebok logo across the chest and a regular fit.",
+      "category": "men's clothing",
+      "color": "red",
+      "size": "medium",
+      "image": "https://imagescdn.reebok.in/img/app/product/3/39942162-19018078.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 180
+      }
+    },
+    {
+      "id": 52,
+      "title": "Hanes Men's ComfortSoft Tagless T-Shirt",
+      "price": 14.99,
+      "description": "A classic Hanes ComfortSoft T-shirt, tagless for extra comfort. Made with soft cotton for a breathable fit.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://m.media-amazon.com/images/I/616v3zWelPL.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 250
+      }
+    },
+    {
+      "id": 53,
+      "title": "Levi's Men's Graphic T-Shirt",
+      "price": 29.50,
+      "description": "Levi's iconic graphic T-shirt with a vintage logo print. Soft cotton fabric and relaxed fit for everyday wear.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "small",
+      "image": "https://levi.in/cdn/shop/files/A65880050_05_Styleshot.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 100
+      }
+    },
+    {
+      "id": 54,
+      "title": "Tommy Hilfiger Men's Basic T-Shirt",
+      "price": 34.99,
+      "description": "Tommy Hilfiger men's basic T-shirt featuring the iconic Tommy logo. Designed for both casual and semi-casual occasions.",
+      "category": "men's clothing",
+      "color": "pink",
+      "size": "large",
+      "image": "https://m.media-amazon.com/images/I/81wYllpOUML.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 120
+      }
+    },
+    {
+      "id": 55,
+      "title": "Calvin Klein Men's Logo T-Shirt",
+      "price": 49.99,
+      "description": "A high-quality cotton T-shirt from Calvin Klein with a bold logo on the front. Designed for comfort and style.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "medium",
+      "image": "https://cdn16.nnnow.com/web-images/medium/styles/DHWCLG4UUV8/1717668386905/1.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 200
+      }
+    },
+    {
+      "id": 56,
+      "title": "Champion Men's Graphic T-Shirt",
+      "price": 22.99,
+      "description": "Champion graphic T-shirt featuring the brand's logo on the chest. A soft cotton construction for all-day wear.",
+      "category": "men's clothing",
+      "color": "brown",
+      "size": "medium",
+      "image": "https://bb-scm-prod-pim.oss-ap-southeast-5.aliyuncs.com/products/84418686451e9f148c39bd1da0fb48a1/helix/01-CHAMPION-AAEV6CMPA-CMP219299BRN-Brown.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 90
+      }
+    },
+    {
+      "id": 57,
+      "title": "Jack & Jones Men's Printed T-Shirt",
+      "price": 19.99,
+      "description": "Jack & Jones printed T-shirt with a modern design. Made from a cotton blend for extra comfort.",
+      "category": "men's clothing",
+      "color": "red",
+      "size": "small",
+      "image": "https://images.bestsellerclothing.in/data/JJ/7-july-2022/185437901_g1.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 110
+      }
+    },
+    {
+      "id": 58,
+      "title": "Diesel Men's Logo T-Shirt",
+      "price": 44.99,
+      "description": "Diesel men's logo T-shirt with a bold design. Soft and breathable cotton fabric.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://cdn.fynd.com/v2/falling-surf-7c8bb8/fyprod/wrkr/products/pictures/item/free/original/000000410510263007/IL0EX5kOM-x-000000410510263007_1.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 59,
+      "title": "Fruit of the Loom Men's T-Shirt",
+      "price": 13.99,
+      "description": "Fruit of the Loom classic fit T-shirt made with 100% cotton. Ideal for casual wear or as a base layer.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "small",
+      "image": "https://m.media-amazon.com/images/I/91wTyBj4qNL.AC_UY1100.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 80
+      }
+    },
+    {
+      "id" : 60,
+      "title": "Gap Men's Essential T-Shirt",
+      "price": 20.00,
+      "description": "Gap Essential T-shirt featuring a soft cotton blend. Perfect for layering or wearing alone in casual settings.",
+      "category": "men's clothing",
+      "color": "black",
+      "size": "large",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240214/ueVa/65cca5c705ac7d77bb563f63/-473Wx593H-442273286-black-MODEL.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 130
+      }
+    },
+    {
+      "id" : 61,
+      "title": "Abercrombie & Fitch Men's Logo T-Shirt",
+      "price": 35.99,
+      "description": "A premium logo T-shirt by Abercrombie & Fitch. Soft and breathable cotton with the iconic logo on the chest.",
+      "category": "men's clothing",
+      "color": "grey",
+      "size": "medium",
+      "image": "https://i.ebayimg.com/images/g/wNoAAOSwQTZj2M5f/s-l1200.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id" : 62,
+      "title": "Tommy Jeans Men's Crewneck T-Shirt",
+      "price": 39.99,
+      "description": "Tommy Jeans men's crewneck T-shirt with logo on the chest. Designed for comfort and style.",
+      "category": "men's clothing",
+      "color": "blue",
+      "size": "large",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240808/xAqD/66b4f2486f60443f31f8f176/-473Wx593H-469668628-blue-MODEL.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 180
+      }
+    },{
+      "id" : 63,
+        "title": "Levi's Men's Slim Fit T-Shirt",
+        "price": 32.99,
+        "description": "Levi's slim fit T-shirt made from soft cotton for a comfortable and stylish look. Features a small logo on the chest.",
+        "category": "men's clothing",
+        "color": "white",
+        "size": "medium",
+        "image": "https://pictures.kartmax.in/cover/live/1200x1600/quality=8/sites/9s145MyZrWdIAwpU0JYS/product-images/levis_cotton_slim_fit_plain_white_t_shirt__1727603133a7973_0024_1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 140
+        }
+        },
+        {
+          "id" : 64,
+        "title": "Gap Men's Vintage Logo T-Shirt",
+        "price": 27.99,
+        "description": "Gap vintage logo T-shirt with a classic fit. Made from breathable cotton for everyday comfort.",
+        "category": "men's clothing",
+        "color": "navy",
+        "size": "large",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230913/SLwO/6501ce90afa4cf41f5e19b1a/-473Wx593H-442111515-navy-MODEL2.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 120
+        }
+        },
+        {
+          "id" : 65,
+        "title": "Nike Men's Sportswear T-Shirt",
+        "price": 35.00,
+        "description": "Nike Sportswear T-shirt with Dri-FIT technology to keep you dry and comfortable. Features a bold logo on the front.",
+        "category": "men's clothing",
+        "color": "red",
+        "size": "large",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/kmds4nk0/t-shirt/j/n/c/m-ar4999-657-nike-original-imagfapbzt9a4vbz.jpeg",
+        "rating": {
+            "rate": 4.7,
+            "count": 200
+        }
+        },
+        {
+          "id" : 66,
+        "title": "Adidas Men's Climalite T-Shirt",
+        "price": 28.50,
+        "description": "Adidas Climalite T-shirt designed to wick sweat away and keep you cool during workouts. Lightweight and breathable.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "medium",
+        "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c220f73eb604bc9a870e478930c1024_9366/designed-for-training-workout-tee.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 160
+        }
+        },
+        {
+          "id" : 67,
+        "title": "Puma Men's Graphic Tee",
+        "price": 22.99,
+        "description": "Puma graphic T-shirt with a modern design and soft cotton fabric. Perfect for casual wear.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://m.media-amazon.com/images/I/61B0yXPcHZL.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 110
+        }
+        },
+        {
+          "id" : 68,
+        "title": "Under Armour Men's HeatGear T-Shirt",
+        "price": 30.99,
+        "description": "Under Armour HeatGear T-shirt designed to keep you cool and dry with moisture-wicking fabric. Ideal for training.",
+        "category": "men's clothing",
+        "color": "white",
+        "size": "large",
+        "image": "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/1361524-120230713085419196.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 140
+        }
+        },
+        {
+          "id" : 69,
+        "title": "Reebok Men's Performance T-Shirt",
+        "price": 24.99,
+        "description": "Reebok performance T-shirt with breathable fabric and a comfortable fit. Features the Reebok logo on the chest.",
+        "category": "men's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://imagescdn.reebok.in/img/app/product/3/39704447-14481064.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 130
+        }
+        },
+        {
+          "id" : 70,
+        "title": "Hanes Men's Tagless Cotton T-Shirt",
+        "price": 15.99,
+        "description": "Hanes tagless cotton T-shirt for all-day comfort. Soft and breathable fabric with a classic fit.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/71Vt1WL9iCL.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 180
+        }
+        },
+        {
+          "id" : 71,
+        "title": "Champion Men's Jersey T-Shirt",
+        "price": 21.99,
+        "description": "Champion jersey T-shirt with a soft cotton blend. Features the iconic Champion logo on the sleeve.",
+        "category": "men's clothing",
+        "color": "green",
+        "size": "medium",
+        "image": "https://m.media-amazon.com/images/I/61BlztGoU0L.AC_UY1100.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 100
+        }
+        },
+        {
+          "id" : 72,
+        "title": "Jack & Jones Men's Basic Tee",
+        "price": 18.99,
+        "description": "Jack & Jones basic T-shirt made from soft cotton. A versatile piece for casual and everyday wear.",
+        "category": "men's clothing",
+        "color": "navy",
+        "size": "small",
+        "image": "https://images.bestsellerclothing.in/data/JJ/1-nov-2023/125838706_g0.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 90
+        }
+        },
+        {
+          "id" : 73,
+          "title": "Columbia Whirlibird IV Interchange Jacket",
+          "price": 249.99,
+          "description": "Versatile jacket from Columbia, featuring a 3-in-1 design that can be worn as a winter jacket or lightweight shell.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "large",
+          "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/Columbia/5apr2024/WE1155-858-13.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 180
+          }
+        },
+        {
+          "id" : 74,
+          "title": "The North Face Resolve 2 Jacket",
+          "price": 99.99,
+          "description": "A lightweight, waterproof jacket by The North Face. Perfect for outdoor adventures and wet weather.",
+          "category": "men's clothing",
+          "color": "red",
+          "size": "medium",
+          "image": "https://m.media-amazon.com/images/I/71HSPGr2cGL._AC_UY1100_.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 200
+          }
+        },
+        {
+          "id" : 75,
+          "title": "Carhartt Quick Duck Chore Coat",
+          "price": 119.99,
+          "description": "A rugged jacket by Carhartt, made with water-repellent fabric and insulated to keep you warm during tough outdoor work.",
+          "category": "men's clothing",
+          "color": "brown",
+          "size": "large",
+          "image": "https://m.media-amazon.com/images/I/51lO5AMPjiL.jpg",
+          "rating": {
+            "rate": 4.6,
+            "count": 150
+          }
+        },
+        {
+          "id" : 76,
+          "title": "Patagonia Tres 3-in-1 Parka",
+          "price": 399.00,
+          "description": "A high-performance 3-in-1 jacket by Patagonia. Wear it as a waterproof shell, insulated jacket, or a combined parka for all weather conditions.",
+          "category": "unisex",
+          "color": "blue",
+          "size": "medium",
+          "image": "https://www.bfgcdn.com/1500_1500_90/004-4901-0211/patagonia-tres-3-in-1-parka-parka.jpg",
+          "rating": {
+            "rate": 4.9,
+            "count": 110
+          }
+        },
+        {
+          "id" : 77,
+          "title": "Adidas Outdoor Jacket",
+          "price": 79.99,
+          "description": "Lightweight and breathable jacket from Adidas, designed for comfort and functionality on outdoor trips.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "small",
+          "image": "https://assets.ajio.com/medias/sys_master/root/20221021/TXFy/6352421caeb269659c53e076/-473Wx593H-469211498-grey-MODEL5.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 190
+          }
+        },
+        {
+          "id" : 78,
+          "title": "Marmot Fordham Jacket",
+          "price": 169.95,
+          "description": "A warm and durable jacket from Marmot, featuring water-resistant material and insulation for cold weather.",
+          "category": "men's clothing",
+          "color": "brown",
+          "size": "large",
+          "image": "https://m.media-amazon.com/images/I/819znOkbOFL._AC_UF894,1000_QL80_.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 130
+          }
+        },
+        {
+          "id" : 79,
+          "title": "Ralph Lauren Double-Breasted Peacoat",
+          "price": 250.00,
+          "description": "A classic double-breasted peacoat from Ralph Lauren, offering both style and warmth.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": "https://cdn-images.farfetch-contents.com/26/37/19/87/26371987_56057260_600.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 220
+          }
+        },
+        {
+          "id" : 80,
+          "title": "The North Face Aconcagua Jacket",
+          "price": 159.99,
+          "description": "Insulated jacket from The North Face, offering lightweight warmth and breathability for active wear.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "large",
+          "image": "https://images.asos-media.com/products/the-north-face-aconcagua-2-hooded-jacket-in-blue/24339083-1-blue?$n_640w$&wid=513&fit=constrain",
+          "rating": {
+            "rate": 4.6,
+            "count": 210
+          }
+        },
+        {
+          "id" : 81,
+          "title": "H&M Puffer Jacket",
+          "price": 49.99,
+          "description": "Affordable and stylish puffer jacket from H&M. Perfect for casual wear in chilly weather.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "small",
+          "image": "https://image.hm.com/assets/hm/23/12/23120fb6309ed6c828b06f8ee2e19443702ee7c2.jpg?imwidth=768",
+          "rating": {
+            "rate": 4.3,
+            "count": 120
+          }
+        },
+        {
+          "id" : 82,
+          "title": "Uniqlo BlockTech Jacket",
+          "price": 99.90,
+          "description": "The Uniqlo BlockTech jacket is designed for weather protection with windproof and waterproof capabilities.",
+          "category": "men's clothing",
+          "color": "red",
+          "size": "medium",
+          "image": "https://www.uniqlo.com/uk/en/news/sp/topics/2019030701/img/180T_230203SQb1cJ.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 160
+          }
+        },
+        {
+          "id" : 83,
+          "title": "Puma Essentials Jacket",
+          "price": 69.99,
+          "description": "A casual jacket from Puma, featuring a sporty look and comfortable feel. Perfect for everyday wear.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "small",
+          "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/851771/01/fnd/IND/fmt/png/Essentials-Men's-Track-Jacket",
+          "rating": {
+            "rate": 4.6,
+            "count": 140
+          }
+        },
+        {
+          "id" : 84,
+          "title": "Dickies Insulated Work Jacket",
+          "price": 95.00,
+          "description": "Heavy-duty insulated jacket from Dickies, designed for hard work in cold conditions.",
+          "category": "men's clothing",
+          "color": "brown",
+          "size": "large",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRedgURqVXhWB4k5ao37-sGg3G8IonpQ0Tg6A&s",
+          "rating": {
+            "rate": 4.7,
+            "count": 180
+          }
+        },
+        {
+          "id" : 85,
+          "title": "Tommy Hilfiger Hooded Jacket",
+          "price": 129.99,
+          "description": "Stylish and cozy hooded jacket from Tommy Hilfiger, perfect for chilly days and casual wear.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "medium",
+          "image": "https://m.media-amazon.com/images/I/71tMdUU2oLL._AC_UY1100_.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 220
+          }
+        },
+        {
+          "id" : 86,
+          "title": "Lee Men's Performance Jacket",
+          "price": 79.99,
+          "description": "A lightweight and breathable jacket from Lee, designed for outdoor activities and casual wear.",
+          "category": "men's clothing",
+          "color": "pink",
+          "size": "medium",
+          "image": "https://cdn-img.poizonapp.com/pro-img/cut-img/20241014/8eca5f7b5589452ebdbeb6a251c08f65.jpg?x-oss-process=image/format,webp/resize,w_350",
+          "rating": {
+            "rate": 4.5,
+            "count": 140
+          }
+        },
+        {
+          "id" : 87,
+          "title": "Helly Hansen Seven J Jacket",
+          "price": 119.95,
+          "description": "Waterproof jacket by Helly Hansen, designed for extreme weather conditions. Features a breathable membrane.",
+          "category": "women's clothing",
+          "color": "grey",
+          "size": "large",
+          "image": "https://m.media-amazon.com/images/I/71QIJyG1-3L.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 150
+          }
+        },
+        {
+          "id" : 88,
+          "title": "Mountain Hardwear Super DS Stretchdown Jacket",
+          "price": 299.00,
+          "description": "Highly insulated and compressible jacket from Mountain Hardwear, designed for extreme cold weather.",
+          "category": "women's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5cmEIHGEi0CwYz_WnHkUZ43o6tNI8cxocw&s",
+          "rating": {
+            "rate": 4.9,
+            "count": 100
+          }
+        },
+        {
+          "id" : 89,
+          "title": "Vans MTE Jacket",
+          "price": 89.99,
+          "description": "Vans MTE jacket, designed for cold and wet conditions. A great choice for skateboarding in winter.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "small",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8ytgTqSCJnEAJjcV3SvlDbNB4Vo39Asu1Q&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 180
+          }
+        },
+        {
+          "id" : 90,
+          "title": "Abercrombie & Fitch Puffer Jacket",
+          "price": 129.00,
+          "description": "Stylish and warm puffer jacket from Abercrombie & Fitch. Perfect for cold urban weather.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "large",
+          "image": "https://images-cdn.ubuy.co.in/636de8252e17ec66471d16e3-abercrombie-amp-fitch-vegan.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 190
+          }
+        },
+        {
+          "id" : 91,
+          "title": "Reebok Sport Jacket",
+          "price": 89.00,
+          "description": "A sporty jacket by Reebok, designed for comfort during outdoor sports and activities.",
+          "category": "men's clothing",
+          "color": "pink",
+          "size": "medium",
+          "image": "https://img.tatacliq.com/images/i12/437Wx649H/MP000000018153589_437Wx649H_202306291619135.jpeg",
+          "rating": {
+            "rate": 4.4,
+            "count": 160
+          }
+        },
+        {
+          "id" : 92,
+          "title": "Adidas Running Shoes",
+          "price": 65.99,
+          "description": "Breathable and lightweight running shoes with superior cushioning. Ideal for workouts and casual wear.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "10",
+          "image": " https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQRVDDxOTiKvhCpWOVtg9I9If4vx4wkEisl_UFf5ZjmbB84EdjLkOEnxOzmQg0zmXjKc4SyBOMP6ZUuJ6HXILxl4_p3ZrZbNzpEZwDIzPMgr8GbaXwjyxwR8pd7U2Ihe1npJQ832BJt2WI&usqp=CAc ",
+          "rating": {
+            "rate": 4.6,
+            "count": 120
+          }
+        },
+        {
+          "id" : 93,
+          "title": "Puma Gym Duffle Bag",
+          "price": 39.99,
+          "description": "Spacious and stylish duffle bag perfect for gym gear and short trips. Water-resistant material.",
+          "category": "men's clothing",
+          "color": "navy blue",
+          "size": "large",
+          "image": " https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSRg0ZEIu0IJiTKpHsjNwjktKVxaly9r5c95YXVXNU-kNx2Yd1xqvuT32bDrMF0aZ7M_NSWwbqCEb7MO3hC6X39WQduX98bODrUpXWj4KKRbdAQd5DMx8X8UiUIXPr3sI9QQe0C34&usqp=CAc ",
+          "rating": {
+            "rate": 4.5,
+            "count": 95
+          }
+        },
+        {
+          "id" : 94,
+          "title": "Nike Sweat-Wicking Headband",
+          "price": 9.99,
+          "description": "Comfortable headband with moisture-wicking technology to keep sweat away during workouts.",
+          "category": "men's clothing",
+          "color": "white",
+          "size": "one size",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSGoApJhqmZTvcqTQ5ZCJnq7cqD_4RmsrdzwcUksRtr1JN90n6c8KlRUvxx_E3vtYqEQGDs-YO46m-2TlXQggyH4ffUvc_fyrD4Be9ddBOFdfKjhtNY3--oh1M ",
+          "rating": {
+            "rate": 4.4,
+            "count": 60
+          }
+        },
+        {
+          "id" : 95,
+          "title": "Under Armour Compression Shirt",
+          "price": 29.99,
+          "description": "Tight-fitting compression shirt to enhance performance and muscle recovery.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": " https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQfEfj5aDlla8rapjixcmDyQXQw2GkQUpuiujqAnL_mnBNum8YlHEozkhlhTJ_CKbgiX5aiYDqbDnzIdZh3Q6s7O8T8ukDhE_YnEDhmgmwKb_WVw4zpAkorsfOYcevDXxTF_hpnh0DJk90&usqp=CAc ",
+          "rating": {
+            "rate": 4.7,
+            "count": 88
+          }
+        },
+        {
+          "id" : 96,
+          "title": "Reebok Training Shorts",
+          "price": 24.99,
+          "description": "Comfortable and flexible shorts designed for high-intensity training sessions.",
+          "category": "men's clothing",
+          "color": "blue",
+          "size": "large",
+          "image": " https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVVYWN6ud0Sf5ev3Vlbq3tqGlL2nx5dphTZ5lvHvnJu3pDpzJQgtEi4a_Wg1RKgI6rfP3eyS-X5wGp1eoRy1o9xPIav5HyMxiBcbGw7pZPuMN1WQEDCAhcA-yy&usqp=CAc ",
+          "rating": {
+            "rate": 4.3,
+            "count": 70
+          }
+        },
+        {
+          "id" : 97,
+          "title": "Asics Sports Cap",
+          "price": 14.99,
+          "description": "UV-protective cap for outdoor sports. Lightweight and breathable fabric.",
+          "category": "men's clothing",
+          "color": "red",
+          "size": "adjustable",
+          "image": " https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT_DSDXUCugJ62kTOckfaoOevHDgZpYzIPSmPflS_J_HvFbMktaPilQLp0nGV5OaghAr8vC7ZF0n5H7lp4ysH3q0ofN0-tjaIX8ePrp4zAsKFDG0I8D5MQRkbc ",
+          "rating": {
+            "rate": 4.1,
+            "count": 52
+          }
+        },
+        {
+          "id" : 98,
+          "title": "Adidas Climacool T-Shirt",
+          "price": 27.99,
+          "description": "Stay cool and dry with this breathable and quick-drying t-shirt for workouts.",
+          "category": "men's clothing",
+          "color": "white",
+          "size": "small",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_2wzAoyBxjPGm4K68-B70r5ULaHZOj9ruiA&s ",
+          "rating": {
+            "rate": 4.5,
+            "count": 112
+          }
+        },
+        {
+          "id" : 99,
+          "title": "Under Armour Gym Backpack",
+          "price": 55.99,
+          "description": "Heavy-duty backpack with separate compartments for shoes, laptop, and gear.",
+          "category": "men's clothing",
+          "color": "olive green",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSWXMlCixD-axmChb0rGYEu667OT5u-R9y2g&s ",
+          "rating": {
+            "rate": 4.8,
+            "count": 140
+          }
+        },
+        {
+          "id" : 100,
+          "title": "Puma Slide Sandals",
+          "price": 19.99,
+          "description": "Comfortable slide sandals with molded footbed for daily use.",
+          "category": "men's clothing",
+          "color": "black/white",
+          "size": "9",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20231012/v51O/6527aa5eafa4cf41f53d7afc/-473Wx593H-466178739-black-MODEL.jpg ",
+          "rating": {
+            "rate": 4.4,
+            "count": 74
+          }
+        },
+        {
+          "id" : 101,
+          "title": "Nike Lightweight Hoodie",
+          "price": 59.99,
+          "description": "Light and breathable hoodie for layering during early morning runs.",
+          "category": "men's clothing",
+          "color": "charcoal",
+          "size": "large",
+          "image": " https://m.media-amazon.com/images/I/91PJOF5vsSL._AC_UY1100_.jpg ",
+          "rating": {
+            "rate": 4.7,
+            "count": 132
+          }
+        },
+        {
+          "id" : 102,
+          "title": "Reebok Compression Tights",
+          "price": 34.99,
+          "description": "High-performance tights with seamless stitching for mobility and comfort.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "medium",
+          "image": " https://imagescdn.reebok.in/img/app/product/3/39623072-12790686.jpg?auto=format&w=390 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 67
+          }
+        },
+        {
+          "id" : 103,
+          "title": "Nike Sports Cap",
+          "price": 15.99,
+          "description": "Classic cap with breathable eyelets and adjustable strap for a custom fit.",
+          "category": "men's clothing",
+          "color": "grey",
+          "size": "adjustable",
+          "image": " https://m.media-amazon.com/images/I/41Bz107mKWL._AC_UY1100_.jpg ",
+          "rating": {
+            "rate": 4.3,
+            "count": 51
+          }
+        },
+        {
+          "id" : 104,
+          "title": "Adidas Yoga Mat",
+          "price": 29.99,
+          "description": "Eco-friendly yoga mat with non-slip texture and cushioning.",
+          "category": "men's clothing",
+          "color": "green",
+          "size": "standard",
+          "image": " https://m.media-amazon.com/images/I/61XFq4VQ6WL.jpg ",
+          "rating": {
+            "rate": 4.5,
+            "count": 90
+          }
+        },
+        {
+          "id" : 105,
+          "title": "Puma Wristbands (2 Pack)",
+          "price": 7.99,
+          "description": "Soft absorbent wristbands to keep sweat at bay during workouts.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "one size",
+          "image": " https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/054791/01/fnd/EEA/fmt/png/PUMA-x-HYROX-Wristbands-(2-pack)",
+          "rating": {
+            "rate": 4.2,
+            "count": 40
+          }
+        },
+      
+        {
+          "id" : 106,
+          "title": "Columbia Fleece Jacket",
+          "price": 69.99,
+          "description": "Warm fleece jacket perfect for outdoor adventures and chilly weather.",
+          "category": "men's clothing",
+          "color": "navy",
+          "size": "medium",
+          "image": " https://cdn.staticans.com/image/tr:e-sharpen-01,h-650,w-488,cm-pad_resize/data/Columbia/17sep2024/AE2205-468-1.jpg ",
+          "rating": {
+            "rate": 4.7,
+            "count": 82
+          }
+        },
+        {
+          "id" : 107,
+          "title": "Decathlon Gym Gloves",
+          "price": 11.49,
+          "description": "Padded gym gloves offering excellent grip and wrist support for lifting.",
+          "category": "men's clothing",
+          "color": "black/red",
+          "size": "medium",
+          "image": " https://contents.mediadecathlon.com/p1656820/7609950b6b7bb8993df4be0fae056bca/p1656820.jpg ",
+          "rating": {
+            "rate": 4.4,
+            "count": 58
+          }
+        },
+        {
+          "id" : 108,
+          "title": "Nike Running Socks (3-Pack)",
+          "price": 13.99,
+          "description": "Comfortable and breathable socks designed to reduce foot fatigue.",
+          "category": "men's clothing",
+          "color": "white",
+          "size": "free size",
+          "image": " https://m.media-amazon.com/images/I/41OG2RVdohL._AC_UY1000_.jpg ",
+          "rating": {
+            "rate": 4.5,
+            "count": 73
+          }
+        },
+        {
+          "id" : 109,
+          "title": "Asics Running Tank Top",
+          "price": 22.99,
+          "description": "Ultra-lightweight and breathable tank designed for peak performance.",
+          "category": "men's clothing",
+          "color": "lime green",
+          "size": "small",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4mlE_qs-s7Ld8eMCTCW3g-CMfM7TvnOH7w&s ",
+          "rating": {
+            "rate": 4.3,
+            "count": 66
+          }
+        },
+        {
+          "id" : 110,
+          "title": "Adidas Adjustable Dumbbells (Pair)",
+          "price": 85.99,
+          "description": "Versatile adjustable dumbbells for home workouts. Ranges from 5 to 25 lbs.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "adjustable",
+          "image": " https://m.media-amazon.com/images/I/61ux9y6kc1L._AC_UF894,1000_QL80_.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 110
+          }
+        },
+        {
+          "id" : 111,
+          "title": "Reebok Sports Watch",
+          "price": 59.99,
+          "description": "Digital sports watch with stopwatch, alarm, and water resistance.",
+          "category": "men's clothing",
+          "color": "black/blue",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfhMJQG3ayElkU3Vh2yXr1m_jxXdBJ4N-2fQ&s",
+          "rating": {
+            "rate": 4.2,
+            "count": 45
+          }
+        },
+        {
+          "id" : 112,
+          "title": "Puma Reflective Running Vest",
+          "price": 18.49,
+          "description": "Stay visible during night runs with this lightweight reflective vest.",
+          "category": "men's clothing",
+          "color": "neon yellow",
+          "size": "adjustable",
+          "image": " https://images.puma.net/images/525057/39/mod01/fnd/IND/w/800/h/800/ ",
+          "rating": {
+            "rate": 4.4,
+            "count": 37
+          }
+        },
+        {
+          "id" : 113,
+          "title": "Nike Yoga Shorts",
+          "price": 31.99,
+          "description": "Flexible and soft yoga shorts with sweat-wicking fabric.",
+          "category": "men's clothing",
+          "color": "ash grey",
+          "size": "large",
+          "image": " https://cdn.shopify.com/s/files/1/0603/3031/1875/files/1_28477c74-d655-41e2-97fd-ade0d72479d1_540x.jpg?=75&v=1707917554 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 68
+          }
+        },
+        {
+          "id" : 114,
+          "title": "Under Armour Sports Water Bottle",
+          "price": 17.99,
+          "description": "Leak-proof and BPA-free bottle with one-hand operation lid.",
+          "category": "men's clothing",
+          "color": "clear/black",
+          "size": "750ml",
+          "image": " https://m.media-amazon.com/images/I/61PQRMZMhWL.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 101
+          }
+        },
+        {
+          "id" : 115,
+          "title": "Adidas Ankle Weights (Pair)",
+          "price": 27.99,
+          "description": "Add resistance to your workouts with these comfortable ankle weights.",
+          "category": "electronics",
+          "color": "black/grey",
+          "size": "2kg each",
+          "image": " https://m.media-amazon.com/images/I/51WOkmBhA-L._AC_UF894,1000_QL80_.jpg ",
+          "rating": {
+            "rate": 4.3,
+            "count": 54
+          }
+        },
+        {
+          "id" : 116,
+          "title": "New Balance Training Hoodie",
+          "price": 52.99,
+          "description": "Moisture-wicking training hoodie with kangaroo pocket and thumbholes.",
+          "category": "men's clothing",
+          "color": "teal",
+          "size": "medium",
+          "image": " https://nb.scene7.com/is/image/NB/mt43563heb_nb_70_i?$pdpflexf2$&wid=440&hei=440 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 78
+          }
+        },
+        {
+          "id" : 117,
+          "title": "Decathlon Push-Up Bars",
+          "price": 14.49,
+          "description": "Ergonomically designed push-up bars to reduce wrist strain during exercises.",
+          "category": "men's clothing",
+          "color": "black/orange",
+          "size": "standard",
+          "image": " https://contents.mediadecathlon.com/p1030211/536aa7aaab21e2a33dd054d4189c24db/p1030211.jpg?format=auto&quality=70&f=2520x0 ",
+          "rating": {
+            "rate": 4.4,
+            "count": 39
+          }
+        },
+        {
+          "id" : 118,
+          "title": "Nike Pro Base Layer Leggings",
+          "price": 41.99,
+          "description": "Base layer compression leggings to support training in cold conditions.",
+          "category": "men's clothing",
+          "color": "black",
+          "size": "large",
+          "image": " https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/befbb400-a9fe-4322-b661-fc53f0e150e5/AS+M+NP+DF+TIGHT.png ",
+          "rating": {
+            "rate": 4.7,
+            "count": 93
+          }
+        },
+        {
+          "id" : 119,
+          "title": "Puma Classic Sports Tee",
+          "price": 19.99,
+          "description": "Soft cotton t-shirt with Puma logo, great for workouts and casual wear.",
+          "category": "men's clothing",
+          "color": "maroon",
+          "size": "medium",
+          "image": " https://images-static.nykaa.com/media/catalog/product/4/b/4b288db68078424_1.jpg?tr=w-500 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 80
+          }
+        },
+        {
+          "id" : 120,
+          "title": "Adidas Calf Sleeves",
+          "price": 21.99,
+          "description": "Compression sleeves for calf support during running or recovery.",
+          "category": "women's clothing",
+          "color": "blue",
+          "size": "free size",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQANz7tNbgnMuaBmDWHehi1jEpHs4loBCiXKg&s ",
+          "rating": {
+            "rate": 4.3,
+            "count": 49
+          }
+        },
+        {
+          "id" : 121,
+          "title": "Aurelia Printed Straight Kurti",
+          "price": 999,
+          "description": "Cotton blend kurti with elegant prints and 3/4th sleeves, ideal for daily wear.",
+          "category": "women's clothing",
+          "color": "blue",
+          "size": "M",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20240201/gf5w/65bb975a16fd2c6e6acf5fce/-473Wx593H-442197766-blue-MODEL.jpg ",
+          "rating": {
+            "rate": 4.3,
+            "count": 72
+          }
+        },
+        {
+          "id" : 122,
+          "title": "W Kurta with Mirror Work",
+          "price": 1499,
+          "description": "Chanderi silk kurta with mirror detailing and side slits for a festive look.",
+          "category": "women's clothing",
+          "color": "peach",
+          "size": "L",
+          "image": " https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/22788870/2024/8/19/3cc67c00-4360-4613-8960-a1e505e754951724051430294-Stylum-Peach-Coloured--Pink-Woven-Design-Mirror-Work-Kurta-W-1.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 95
+          }
+        },
+        {
+          "id" : 123,
+          "title": "Biba A-line Kurti",
+          "price": 1349,
+          "description": "A-line kurti with floral prints and notched neckline. Perfect for office wear.",
+          "category": "women's clothing",
+          "color": "green",
+          "size": "S",
+          "image": " https://www.biba.in/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-biba-product-catalog/default/dw2156d2e0/images/aw21/assorted17929eaw21grn_1.jpg?sw=502&sh=753 ",
+          "rating": {
+            "rate": 4.4,
+            "count": 88
+          }
+        },
+        {
+          "id" : 124,
+          "title": "Global Desi Embroidered Kurta",
+          "price": 1799,
+          "description": "Rayon kurta with intricate embroidery and a mandarin collar.",
+          "category": "women's clothing",
+          "color": "maroon",
+          "size": "M",
+          "image": " https://img.tatacliq.com/images/i8/437Wx649H/MP000000012341816_437Wx649H_202205311304401.jpeg ",
+          "rating": {
+            "rate": 4.7,
+            "count": 64
+          }
+        },
+        {
+          "id" : 125,
+          "title": "Libas Anarkali Kurta",
+          "price": 1299,
+          "description": "Floor-length Anarkali kurta with ethnic motifs and 3/4 sleeves.",
+          "category": "women's clothing",
+          "color": "yellow",
+          "size": "L",
+          "image": " https://www.libas.in/cdn/shop/files/yellow-embroidered-georgette-anarkali-kurta-with-churidar-and-dupatta-libas-1.jpg?v=1738918106 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 77
+          }
+        },
+        {
+          "id" : 126,
+          "title": "AKS Foil Print Kurta",
+          "price": 899,
+          "description": "Straight fit kurta with gold foil print. Ideal for casual outings.",
+          "category": "women's clothing",
+          "color": "white",
+          "size": "M",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1agttV4D1A9uPkhiFUGzFrhNygYLi_-b6cA&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 51
+          }
+        },
+        {
+          "id" : 127,
+          "title": "Rangriti Straight Kurta",
+          "price": 799,
+          "description": "Comfortable cotton straight kurta with classic floral prints.",
+          "category": "women's clothing",
+          "color": "pink",
+          "size": "L",
+          "image": " https://www.rangriti.com/dw/image/v2/BKQK_PRD/on/demandware.static/-/Sites-rangriti-product-catalog/default/dweef4ca50/images/aw22/rmmworkwea17034aw22pnk_1.jpg?sw=502&sh=753 ",
+          "rating": {
+            "rate": 4.1,
+            "count": 39
+          }
+        },
+        {
+          "id" : 128,
+          "title": "Soch Printed Kurti",
+          "price": 999,
+          "description": "Printed cotton kurti with flared hem and soft fabric for daily wear.",
+          "category": "women's clothing",
+          "color": "beige",
+          "size": "S",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLxD8Ax-Iu4X4kd9mBklgACJZWltG9oEAzA&s ",
+          "rating": {
+            "rate": 4.4,
+            "count": 60
+          }
+        },
+        {
+          "id" : 129,
+          "title": "Indya Sequin Work Kurta",
+          "price": 1899,
+          "description": "Elegant party-wear kurta with sequin details and side slits.",
+          "category": "women's clothing",
+          "color": "black",
+          "size": "M",
+          "image": " https://img.faballey.com/images/Product/ILK03165Z/3.jpg ",
+          "rating": {
+            "rate": 4.6,
+            "count": 87
+          }
+        },
+        {
+          "id" : 130,
+          "title": "Zola Short Kurti",
+          "price": 599,
+          "description": "Short kurti perfect for pairing with jeans. Casual and comfy.",
+          "category": "women's clothing",
+          "color": "red",
+          "size": "L",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20230624/6OAh/64965bfdeebac147fcf10098/-473Wx593H-465182165-maroon-MODEL.jpg",
+          "rating": {
+            "rate": 4.3,
+            "count": 42
+          }
+        },
+        {
+          "id" : 131,
+          "title": "AND Flared Maxi Skirt",
+          "price": 1599,
+          "description": "High-waisted maxi skirt with soft pleats and side zip closure. Elegant and flowy.",
+          "category": "women's clothing",
+          "color": "navy blue",
+          "size": "M",
+          "image": " https://www.apeksh.co.in/cdn/shop/files/Azd1zIje.jpg?v=1728330815 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 72
+          }
+        },
+        {
+          "id" : 132,
+          "title": "Global Desi Tiered Long Skirt",
+          "price": 1399,
+          "description": "Boho-style tiered skirt with ethnic prints and drawstring waist.",
+          "category": "women's clothing",
+          "color": "rust orange",
+          "size": "S",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16Q8bYFB5vwlnsxfVKle39p2eqVb6N0T0CQ&s",
+          "rating": {
+            "rate": 4.5,
+            "count": 55
+          }
+        },
+        {
+          "id" : 133,
+          "title": "W Straight Skirt with Slit",
+          "price": 1199,
+          "description": "Straight cut skirt with side slit and waistband. Ideal for formal settings.",
+          "category": "women's clothing",
+          "color": "black",
+          "size": "L",
+          "image": " https://assets.ajio.com/medias/sys_master/root/20230628/z8NK/649bd6dea9b42d15c90b934c/-1117Wx1400H-465928808-black-MODEL.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 60
+          }
+        },
+        {
+          "id" : 134,
+          "title": "Indya Embroidered Skirt",
+          "price": 1999,
+          "description": "Festive long skirt with golden embroidery. Perfect for weddings and functions.",
+          "category": "women's clothing",
+          "color": "maroon",
+          "size": "M",
+          "image": "https://img.faballey.com/images/Product/ISK00120Z/4.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 80
+          }
+        },
+        {
+          "id" : 135,
+          "title": "AKS Printed Wrap Skirt",
+          "price": 899,
+          "description": "Cotton wrap-around skirt with traditional prints. Boho-chic style.",
+          "category": "women's clothing",
+          "color": "multicolor",
+          "size": "Free",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsOlmGmbMBHc_adNh5Zfh5hUdeYaN-u-TUiw&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 48
+          }
+        },
+        {
+          "id" : 136,
+          "title": "Fusion Beats Pleated Midi Skirt",
+          "price": 999,
+          "description": "Solid pleated midi skirt for everyday chic look.",
+          "category": "women's clothing",
+          "color": "beige",
+          "size": "M",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmouKBDEpZrmZz8SqtAh3nXn3IuYow3JNA2w&s",
+          "rating": {
+            "rate": 4.3,
+            "count": 52
+          }
+        },
+        {
+          "id" : 137,
+          "title": "Rangmanch by Pantaloons Flared Skirt",
+          "price": 1099,
+          "description": "Ethnic flared skirt with zari border and elastic waist.",
+          "category": "women's clothing",
+          "color": "pink",
+          "size": "L",
+          "image": " https://rukminim1.flixcart.com/image/300/300/xif0q/skirt/n/b/z/m-1-110142177peach-rangmanch-by-pantaloons-original-imagu5mdbah3hkk9.jpeg ",
+          "rating": {
+            "rate": 4.5,
+            "count": 66
+          }
+        },
+        {
+          "id" : 138,
+          "title": "Tokyo Talkies Denim Skirt",
+          "price": 849,
+          "description": "Casual front-button denim skirt with pockets.",
+          "category": "women's clothing",
+          "color": "light blue",
+          "size": "M",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0k5NYJdmssq_xHmw_GKk_fHTvsxq5QExjvw&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 58
+          }
+        },
+        {
+          "id" : 139,
+          "title": "Style Quotient Pencil Skirt",
+          "price": 699,
+          "description": "Solid pencil skirt for a sleek and polished look.",
+          "category": "women's clothing",
+          "color": "grey",
+          "size": "S",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJ9hf0tcPTNptlpQq7nyyXoXV_X8Z5KD-yw&s ",
+          "rating": {
+            "rate": 4.0,
+            "count": 44
+          }
+        },
+        {
+          "id" : 140,
+          "title": "Berrylush Floral Slit Skirt",
+          "price": 899,
+          "description": "Floral printed skirt with a side slit and high-waisted fit.",
+          "category": "women's clothing",
+          "color": "blue",
+          "size": "M",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjBD8HE5JywB33bf0YuO6xDmXO2YwgTH1Sw&s ",
+          "rating": {
+            "rate": 4.4,
+            "count": 49
+          }
+        },
+        {
+          "id" : 141,
+          "title": "Tanishq Timeless Twists Diamond Stud Earrings",
+          "price": 47188,
+          "description": "Elegant diamond stud earrings crafted in 18K gold, perfect for daily wear.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": " https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8223e352/images/hi-res/50D1D2SJZAGA02_1.jpg ",
+          "rating": {
+            "rate": 4.8,
+            "count": 120
+          }
+        },
+        {
+          "id" : 142,
+          "title": "Kalyan Jewellers Duchess Diamond Ring",
+          "price": 55200,
+          "description": "A regal diamond ring set in 22K gold, exuding sophistication.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "7",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi8wAUXa2Q8rQv3ej9pfcSES-SjDstFV5Bmg&s ",
+          "rating": {
+            "rate": 4.7,
+            "count": 95
+          }
+        },
+        {
+          "id" : 143,
+          "title": "Zariin Evil Eye Enamel Neck Chain",
+          "price": 1350,
+          "description": "A protective evil eye necklace with enamel detailing, ideal for layering.",
+          "category": "jewelery",
+          "color": "turquoise",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqgRtw3knnY_yMSmJbFKBhCLGl7ayonsHmrQ&s ",
+          "rating": {
+            "rate": 4.5,
+            "count": 60
+          }
+        },
+        {
+          "id" : 144,
+          "title": "Mia by Tanishq Luxuriant Diamond Pendant",
+          "price": 41221,
+          "description": "A luxurious diamond pendant set in 18K gold, perfect for special occasions.",
+          "category": "jewelery",
+          "color": "rose gold",
+          "size": "standard",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREEToocHx0azDOIKZ8pA7ZeeRqDnw0UkiRmg&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 110
+          }
+        },
+        {
+          "id" : 145,
+          "title": "AZGA Baroque Pearl Neck Chain",
+          "price": 1800,
+          "description": "A classic baroque pearl necklace with a modern twist.",
+          "category": "jewelery",
+          "color": "white",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWLmdFeXOAPAJTdTjzbrQqeE_i5li3vsD-dQ&s",
+          "rating": {
+            "rate": 4.4,
+            "count": 85
+          }
+        },
+        {
+          "id" : 146,
+          "title": "Nykaa Fashion Kundan Choker Set",
+          "price": 2999,
+          "description": "Traditional Kundan choker set with matching earrings, ideal for weddings.",
+          "category": "jewelery",
+          "color": "green",
+          "size": "standard",
+          "image": " https://images-static.nykaa.com/media/catalog/product/a/0/a0e6d0dAZAIJ00000614_1.jpg?tr=w-500 ",
+          "rating": {
+            "rate": 4.5,
+            "count": 70
+          }
+        },
+        {
+          "id" : 147,
+          "title": "Flipkart Gold-Plated Pearl Drop Earrings",
+          "price": 499,
+          "description": "Elegant gold-plated earrings with pearl drops, suitable for daily wear.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPyZcsJacu7PNhbgO8nJTlojySoTPsWbVSkw&s ",
+          "rating": {
+            "rate": 4.2,
+            "count": 150
+          }
+        },
+        {
+          "id" : 148,
+          "title": "AJIO Tribal Statement Necklace",
+          "price": 899,
+          "description": "Bold tribal-inspired necklace to elevate your ethnic outfits.",
+          "category": "jewelery",
+          "color": "silver",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-O7FiDSP3FTk0l9BrTWD4-DDUkyBPbXxKQ&s",
+          "rating": {
+            "rate": 4.3,
+            "count": 65
+          }
+        },
+        {
+          "id" : 149,
+          "title": "Zariin Heart Eye Adjustable Ring",
+          "price": 1250,
+          "description": "Chic adjustable ring with heart and eye motifs, perfect for stacking.",
+          "category": "jewelery",
+          "color": "ivory gold",
+          "size": "adjustable",
+          "image": " https://www.azga.in/cdn/shop/products/6L3A1354.jpg?v=1604142690 ",
+          "rating": {
+            "rate": 4.6,
+            "count": 40
+          }
+        },
+        {
+          "id" : 150,
+          "title": "Tanishq Glimmering Grid Diamond Drop Earrings",
+          "price": 58999,
+          "description": "Exquisite diamond drop earrings with a grid pattern, set in 18K gold.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPqYZDvmTqN1OQBk3Kpp9XzP1eikKJdXEnQ&s ",
+          "rating": {
+            "rate": 4.8,
+            "count": 90
+          }
+        },
+        {
+          "id" : 151,
+          "title": "Kalyan Jewellers Ellena Diamond Earrings",
+          "price": 36200,
+          "description": "Delicate diamond earrings with a floral design, perfect for gifting.",
+          "category": "jewelery",
+          "color": "white gold",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTopJHGO6opUBHC-1LKg2b3nBWlFfMnQq5w&s ",
+          "rating": {
+            "rate": 4.7,
+            "count": 75
+          }
+        },
+        {
+          "id" : 152,
+          "title": "AZGA Evil Eye Bracelet - Rose Gold",
+          "price": 1150,
+          "description": "Protective evil eye bracelet in rose gold finish, adjustable fit.",
+          "category": "jewelery",
+          "color": "rose gold",
+          "size": "adjustable",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCZ-sp60ma5cWCEP86ePuwhjY0dVJiCtyDqw&s ",
+          "rating": {
+            "rate": 4.5,
+            "count": 55
+          }
+        },
+        {
+          "id" : 153,
+          "title": "Timeless Swirl Diamond Stud Earrings",
+          "price": 134877,
+          "description": "Elegant 18K rose gold stud earrings featuring 38 round SI2 clarity diamonds totaling 0.574 ct, inspired by dynamic floral designs.",
+          "category": "jewelery",
+          "color": "rose gold",
+          "size": "standard",
+          "image": " https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw18a42feb/images/hi-res/50D3D1SXPABA02_1.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 85
+          }
+        },
+        {
+          "id" : 154,
+          "title": "Graceful Twist Diamond Stud Earrings",
+          "price": 32225,
+          "description": "Delicate 18K yellow gold triangle-shaped stud earrings adorned with 12 round I1-I2 clarity diamonds totaling 0.102 ct, featuring a leaf motif.",
+          "category": "jewelery",
+          "color": "yellow gold",
+          "size": "standard",
+          "image": " https://www.miabytanishq.com/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc690580b/images/Mia/hi-res/3824SKC.jpg?sw=640&sh=640",
+          "rating": {
+            "rate": 4.5,
+            "count": 60
+          }
+        },
+        {
+          "id" : 155,
+          "title": "Gold Timeless Twist Diamond Stud Earrings",
+          "price": 9295,
+          "description": "14K gold stud earrings set with 2 lab-grown FG VVS/VS diamonds totaling 0.07 ct, offering a modern twist design.",
+          "category": "jewelery",
+          "color": "gold",
+          "size": "standard",
+          "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMo9lIdc9z1VZFV4ICzAkGW3LA7Tmvhezdw&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 70
+          }
+        },
+        {
+          "id" : 156,
+          "title": "Samsung Galaxy S21 Smartphone",
+          "price": 799,
+          "description": "The Samsung Galaxy S21 features a 6.2-inch screen, triple camera system, and a 4000mAh battery. Perfect for everyday use.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQbHiaD7wHad8vmgLcIAxASbx4ZwancCCoUJg3swoNfVa1VEnw2d5b-wyIMO-zpT_UKQqZiqsaCnBZTlYRUiV1v44jTdwm95cqHAkiY_QBmQO224kIjtRec8w",
+          "rating": { "rate": 4.5, "count": 1345 },
+          "color": "Phantom Gray"
+        },
+        {
+          "id" : 157,
+          "title": "Sony Noise Cancelling Headphones",
+          "price": 299,
+          "description": "Wireless over-ear headphones with noise-canceling technology, ideal for travel and music enthusiasts.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/51rpbVmi9XL.jpg",
+          "rating": { "rate": 4.7, "count": 786 },
+          "color": "Black"
+        },
+        {
+          "id" : 158,
+          "title": "Apple AirPods Pro",
+          "price": 249,
+          "description": "Active Noise Cancellation and Adaptive Transparency for an immersive audio experience.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.8, "count": 1743 },
+          "color": "White"
+        },
+        {
+          "id" : 159,
+          "title": "Fitbit Charge 4 Fitness Tracker",
+          "price": 129,
+          "description": "Track your activity, heart rate, and sleep patterns with this fitness tracker.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71smqRr0pmL.jpg",
+          "rating": { "rate": 4.3, "count": 987 },
+          "color": "Black"
+        },
+        {
+          "id" : 160,
+          "title": "Echo Dot (4th Gen) Smart Speaker",
+          "price": 49.99,
+          "description": "Voice-controlled smart speaker with Alexa built-in, perfect for smart home integration.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61dgl2srHDL._AC_UF350,350_QL80_.jpg",
+          "rating": { "rate": 4.6, "count": 8321 },
+          "color": "Charcoal"
+        },
+        {
+          "id" : 161,
+          "title": "Canon EOS Rebel T7 DSLR Camera",
+          "price": 549,
+          "description": "A beginner-friendly DSLR camera with a 24.1 MP sensor, perfect for photography enthusiasts.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61TSYuJ9ySL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.5, "count": 456 },
+          "color": "Black"
+        },
+        {
+          "id" : 162,
+          "title": "Nintendo Switch Console",
+          "price": 299,
+          "description": "The Nintendo Switch lets you play games at home or on the go with this hybrid console.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/51Gz7IimgoL._AC_UF894,1000_QL80_.jpg",
+          "rating": { "rate": 4.8, "count": 1945 },
+          "color": "Neon Red/Blue"
+        },
+        {
+          "id" : 163,
+          "title": "GoPro Hero 9 Black",
+          "price": 399,
+          "description": "Ultra-durable and waterproof action camera with 5K video and 20MP photos.",
+          "category": "electronics",
+          "image": "https://gppro.in/wp-content/uploads/2024/11/GoPro-Hero-9_6.jpg",
+          "rating": { "rate": 4.7, "count": 1200 },
+          "color": "Black"
+        },
+        {
+          "id" : 164,
+          "title": "Anker PowerCore 10000 Portable Charger",
+          "price": 25.99,
+          "description": "Compact, portable charger with 10000mAh capacity for your phone or tablet.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61m1YEHW3YL.jpg",
+          "rating": { "rate": 4.6, "count": 1123 },
+          "color": "Black"
+        },
+        {
+          "id" : 165,
+          "title": "JBL Flip 5 Bluetooth Speaker",
+          "price": 89.95,
+          "description": "Portable Bluetooth speaker with powerful sound and waterproof design.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61os0x049mL.jpg",
+          "rating": { "rate": 4.5, "count": 1346 },
+          "color": "Red"
+        },
+        {
+          "id" : 166,
+          "title": "Roku Streaming Stick 4K",
+          "price": 49.99,
+          "description": "Stream your favorite shows in 4K resolution with the Roku Streaming Stick.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71nulLJ9VmL.jpg",
+          "rating": { "rate": 4.4, "count": 2157 },
+          "color": "Black"
+        },
+        {
+          "id" : 167,
+          "title": "Samsung 32” Curved Monitor",
+          "price": 199,
+          "description": "Experience a wide view with this 32” curved monitor, ideal for gaming and work.",
+          "category": "electronics",
+          "image": "https://microless.com/cdn/products/e1ff5413ccfa689ca6ee5f8d8956b234-md.jpg",
+          "rating": { "rate": 4.2, "count": 820 },
+          "color": "Black"
+        },
+        {
+          "id" : 168,
+          "title": "Lenovo ThinkPad X1 Carbon Laptop",
+          "price": 1200,
+          "description": "A powerful business laptop with a 14” screen and Intel i7 processor.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/41AW34vZZdL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.6, "count": 1645 },
+          "color": "Black"
+        },
+        {
+          "id" : 169,
+          "title": "Microsoft Surface Pro 7 Tablet",
+          "price": 749,
+          "description": "A versatile tablet that doubles as a laptop with a detachable keyboard.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61qS1eDVy9S.jpg",
+          "rating": { "rate": 4.7, "count": 321 },
+          "color": "Platinum"
+        },
+        {
+          "id" : 170,
+          "title": "Sony PlayStation 5",
+          "price": 499,
+          "description": "The latest PlayStation console offering next-gen gaming performance.",
+          "category": "electronics",
+          "image": "https://sathya.in/media/95926/catalog/1%20(51).jpg",
+          "rating": { "rate": 4.9, "count": 6421 },
+          "color": "White"
+        },
+        {
+          "id" : 171,
+          "title": "Bose SoundLink Revolve+ Bluetooth Speaker",
+          "price": 299,
+          "description": "360-degree sound with deep bass, perfect for your home or outdoor adventures.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71cU1KriEyL.jpg",
+          "rating": { "rate": 4.8, "count": 2347 },
+          "color": "Silver"
+        },
+        {
+          "id" : 172,
+          "title": "Apple Watch Series 6",
+          "price": 399,
+          "description": "Advanced health monitoring, GPS, and always-on display in a sleek smartwatch.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYXq_bfLHWDvGPHp3ZKJew_e2tFWdDdHM2A&s",
+          "rating": { "rate": 4.7, "count": 1234 },
+          "color": "Blue"
+        },
+        {
+          "id" : 173,
+          "title": "Acer Predator Helios 300 Gaming Laptop",
+          "price": 1299,
+          "description": "A high-performance gaming laptop with NVIDIA GeForce GTX 1660 Ti graphics.",
+          "category": "electronics",
+          "image": "https://images-cdn.ubuy.co.in/634005433f4f712dd4290459-acer-predator-helios-300-gaming-laptop.jpg",
+          "rating": { "rate": 4.6, "count": 654 },
+          "color": "Black"
+        },
+        {
+          "id" : 174,
+          "title": "Beats by Dre Studio3 Wireless Headphones",
+          "price": 349,
+          "description": "Noise-canceling over-ear headphones with up to 22 hours of battery life.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/618aVzbPMjL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.5, "count": 785 },
+          "color": "Matte Black"
+        },
+        {
+          "id" : 175,
+          "title": "Logitech MX Master 3 Wireless Mouse",
+          "price": 99.99,
+          "description": "Ergonomically designed wireless mouse with precise tracking and customizable buttons.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_UF1000,1000_QL80_.jpg",
+          "rating": { "rate": 4.8, "count": 1123 },
+          "color": "Graphite"
+        },
+        {
+          "id" : 176,
+          "title": "Seagate Backup Plus Portable 2TB Drive",
+          "price": 89.99,
+          "description": "Portable hard drive with 2TB of storage, ideal for backing up large files.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/618jxrTWXIL.jpg",
+          "rating": { "rate": 4.4, "count": 654 },
+          "color": "Black"
+        },
+        {
+          "id" : 177,
+          "title": "Google Nest Learning Thermostat",
+          "price": 249,
+          "description": "A smart thermostat that learns your schedule and helps save energy.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/71AcIJHaUXL._AC_UF894,1000_QL80_.jpg",
+          "rating": { "rate": 4.6, "count": 982 },
+          "color": "White"
+        },
+        {
+          "id" : 178,
+          "title": "Dyson V11 Torque Drive Cordless Vacuum",
+          "price": 599,
+          "description": "Cordless vacuum with powerful suction and intelligent cleaning modes.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5rykZTM2QkWl_qkYxjn9JWIjYIXObWS5cdA&s",
+          "rating": { "rate": 4.7, "count": 345 },
+          "color": "Iron/Silver"
+        },
+        {
+          "id" : 179,
+          "title": "Amazon Fire TV Stick 4K",
+          "price": 49.99,
+          "description": "Stream 4K content from your favorite apps with Alexa Voice Remote.",
+          "category": "electronics",
+          "image": "https://img.tatacliq.com/images/i5/437Wx649H/MP000000004608405_437Wx649H_20191015192849.jpeg",
+          "rating": { "rate": 4.6, "count": 2056 },
+          "color": "Black"
+        },
+        {
+          "id" : 180,
+          "title": "Razer DeathAdder Elite Gaming Mouse",
+          "price": 69.99,
+          "description": "Ergonomic gaming mouse with customizable RGB lighting and high-precision sensor.",
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/41e0ap8k3yL.jpg",
+          "rating": { "rate": 4.5, "count": 1456 },
+          "color": "Black"
+        },
+        {
+          "id" : 181,
+          "title": "Samsung Galaxy Buds Pro",
+          "price": 199,
+          "description": "Wireless earbuds with premium sound, noise cancellation, and long battery life.",
+          "category": "electronics",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaIbCLES-y8TTTFe24bzIPa_mMHESDgd9Gg&s",
+          "rating": { "rate": 4.6, "count": 1564 },
+          "color": "Phantom Violet"
+        },
+        {
+          "id" : 182,
+          "title": "Nike Air Zoom Pegasus 38",
+          "price": 120.00,
+          "description": "Nike Air Zoom Pegasus 38 running shoes with responsive cushioning and breathable mesh upper.",
+          "category": "footwear",
+          "color": "black",
+          "size": "10",
+          "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/e/z/e/-original-imagtbtet2hs3pne.jpeg",
+          "rating": {
+            "rate": 4.7,
+            "count": 250
+          }
+        },
+        {"id" : 183,
+          "title": "Adidas Ultraboost 21",
+          "price": 180.00,
+          "description": "Adidas Ultraboost 21 with Boost midsole for energy return and Primeknit upper for comfort.",
+          "category": "footwear",
+          "color": "white",
+          "size": "9",
+          "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/d/1/g/-original-imahfxva5wu4ncsj.jpeg",
+          "rating": {
+            "rate": 4.8,
+            "count": 300
+          }
+        },
+        {
+          "id" : 184,
+          "title": "Puma RS-X3 Sneakers",
+          "price": 110.00,
+          "description": "Puma RS-X3 sneakers with bold design and comfortable cushioning for everyday wear.",
+          "category": "footwear",
+          "color": "grey",
+          "size": "11",
+          "image": "https://ktsneaker.com/upload/product/rsx32-5299.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 180
+          }
+        },
+        {
+          "id" : 185,
+          "title": "New Balance 990v5",
+          "price": 175.00,
+          "description": "New Balance 990v5 with premium cushioning and durable materials for all-day comfort.",
+          "category": "footwear",
+          "color": "navy",
+          "size": "10",
+          "image": "https://i.ytimg.com/vi/0odLgbJrgLA/maxresdefault.jpg",
+          "rating": {
+            "rate": 4.6,
+            "count": 220
+          }
+        },
+        {
+          "id": 186,
+          "title": "Reebok Classic Leather",
+          "price": 75.00,
+          "description": "Reebok Classic Leather shoes with soft leather upper and EVA midsole for lightweight cushioning.",
+          "category": "footwear",
+          "color": "white",
+          "size": "9",
+          "image": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/19194008/2022/9/13/8f8fa112-5f93-438a-85e9-766033c146cf1663047232041-Reebok-Classic-Unisex-White-Perforated-Classic-Leather-Sneak-1.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 190
+          }
+        },
+        {
+          "id" : 187,
+          "title": "ASICS Gel-Kayano 27",
+          "price": 160.00,
+          "description": "ASICS Gel-Kayano 27 running shoes with gel cushioning and supportive fit for stability.",
+          "category": "footwear",
+          "color": "black",
+          "size": "10",
+          "image": "https://m.media-amazon.com/images/I/61AENJPX8IL._AC_UY1000_.jpg",
+          "rating": {
+            "rate": 4.7,
+            "count": 210
+          }
+        },
+        {
+          "id" : 188,
+          "title": "Under Armour Charged Assert 8",
+          "price": 70.00,
+          "description": "Under Armour Charged Assert 8 with lightweight mesh upper and charged cushioning midsole.",
+          "category": "footwear",
+          "color": "red",
+          "size": "11",
+          "image": "https://m.media-amazon.com/images/I/517w5lVaUjL.AC_UY1000.jpg",
+          "rating": {
+            "rate": 4.3,
+            "count": 160
+          }
+        },
+        {
+          "id" : 189,
+          "title": "Vans Old Skool Sneakers",
+          "price": 60.00,
+          "description": "Vans Old Skool sneakers with iconic side stripe and durable canvas and suede upper.",
+          "category": "footwear",
+          "color": "black",
+          "size": "9",
+          "image": "https://cdn-images.farfetch-contents.com/20/17/10/56/20171056_50032124_600.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 230
+          }
+        },
+        {
+          "id" : 190,
+          "title": "Converse Chuck Taylor All Star",
+          "price": 55.00,
+          "description": "Classic Converse Chuck Taylor All Star high-top sneakers with canvas upper and rubber sole.",
+          "category": "footwear",
+          "color": "white",
+          "size": "10",
+          "image": "https://www.converse.in/media/catalog/product/1/u/1u646_01_2.jpg",
+          "rating": {
+            "rate": 4.6,
+            "count": 270
+          }
+        },
+        {
+          "id" : 191,
+          "title": "Timberland 6-Inch Premium Boots",
+          "price": 198.00,
+          "description": "Timberland 6-Inch Premium waterproof boots with durable leather and rugged outsole.",
+          "category": "footwear",
+          "color": "wheat",
+          "size": "10",
+          "image": "https://m.media-amazon.com/images/I/718pL8pw8OL.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 300
+          }
+        },
+        {
+          "id" : 192,
+          "title": "Skechers Go Walk 5",
+          "price": 65.00,
+          "description": "Skechers Go Walk 5 with lightweight and breathable mesh upper for comfortable walking.",
+          "category": "footwear",
+          "color": "grey",
+          "size": "11",
+          "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/6/g/2/-original-imagphkzarqvav96.jpeg",
+          "rating": {
+            "rate": 4.4,
+            "count": 140
+          }
+        },
+        {
+          "id" : 193,
+          "title": "Columbia Redmond Waterproof Hiking Shoes",
+          "price": 90.00,
+          "description": "Columbia Redmond waterproof hiking shoes with durable construction and excellent traction.",
+          "category": "footwear",
+          "color": "brown",
+          "size": "10",
+          "image": "https://m.media-amazon.com/images/I/61NkGlRhlaL.AC_UY1000.jpg",
+          "rating": {
+            "rate": 4.5,
+            "count": 120
+          }
+        },
+        {
+          "id" : 194,
+          "title": "Fila Disruptor II Sneakers",
+          "price": 65.00,
+          "description": "Fila Disruptor II sneakers with chunky sole and retro design for a bold look.",
+          "category": "footwear",
+          "color": "white",
+          "size": "11",
+          "image": "https://www.footworlduk.com/cdn/shop/products/mens-disruptor-ii-premium-x-alfie-rare-mens-fila-product_tags-latest-sneakers-at-foot-world.jpg",
+          "rating": {
+            "rate": 4.4,
+            "count": 130
+          }
+        },
+        {
+          "id" : 195,
+          "title": "Salomon Speedcross 5 Trail Running Shoes",
+          "price": 150.00,
+          "description": "Salomon Speedcross 5 trail running shoes with aggressive grip and lightweight design.",
+          "category": "footwear",
+          "color": "black",
+          "size": "10",
+          "image": "https://www.runningshoesguru.com/wp-content/uploads/2019/06/Salomon-Speedcross-5-Lateral-side-500x320.jpg",
+          "rating": {
+            "rate": 4.8,
+            "count": 190
+          }
+        },
+        {
+          "id" : 196,
+          "title": "Nike Air Force 1 '07",
+          "price": 90.00,
+          "description": "Nike Air Force 1 '07 sneakers with classic design and durable leather upper.",
+          "category": "footwear",
+          "color": "white",
+          "size": "10",
+          "image": "https://static.nike.com/a/images/t_default/1fa59f61-a6e7-4d4c-b2dc-aed4ef1a1a00/AIR+FORCE+1+%2707.png",
+          "rating": {
+            "rate": 4.6,
+            "count": 280
+          }
+        },
+        {
+          "id" : 197,
+          "title": "Brooks Ghost 13 Running Shoes",
+          "price": 130.00,
+          "description": "Brooks Ghost 13 running shoes with soft cushioning and smooth transitions for long runs.",
+          "category": "footwear",
+          "color": "blue",
+          "size": "9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAH55PDjDhvr5PVf0Pu2JfT6oce3RTnhkuw&s",
+          "rating": {
+            "rate": 4.7,
+            "count": 210
+          }
+        },
+        {
+          "id" : 198,
+          "title": "Vans Sk8-Hi Sneakers",
+          "price": 65.00,
+          "description": "Vans Sk8-Hi high-top sneakers with padded collar and durable canvas upper.",
+          "category": "footwear",
+          "color": "black",
+          "size": "9",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIn-vPi6Xb576-3vW0eVKBahKMliZqJXPuQ&s",
+          "rating": {
+            "rate": 4.5,
+            "count": 220
+          }
+        },
+        {
+          "id" : 199,
+          "title": "Clarks Desert Boot",
+          "price": 130.00,
+          "description": "Clarks Desert Boot with premium suede upper and crepe sole for comfort and style.",
+          "category": "footwear",
+          "color": "brown",
+          "size": "10",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAeqeVBFQW---C6B5aq-hRKYWMQZq9dUnBw&s",
+          "rating": {
+            "rate": 4.7,
+            "count": 150
+          }
+        },
+        {
+          "id" : 200,
+          "title": "Merrell Moab 2 Vent Hiking Shoes",
+          "price": 110.00,
+          "description": "Merrell Moab 2 Vent hiking shoes with breathable mesh and Vibram sole for superior grip.",
+          "category": "footwear",
+          "color": "tan",
+          "size": "10",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xPXqU8PTx6Q37HlKB3hl5tHuSkbPlYhDow&s",
+          "rating": {
+            "rate": 4.6,
+            "count": 130
+          }
+        },
+        {
+          "id" : 201,
+          "title": "Nike React Infinity Run Flyknit",
+          "price": 160.00,
+          "description": "Nike React Infinity Run Flyknit running shoes with soft cushioning and breathable Flyknit upper.",
+          "category": "footwear",
+          "color": "blue",
+          "size": "10",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAuFWsxKVLjp5kZQxoDZo4EXtVumofaKDzuA&s",
+          "rating": {
+            "rate": 4.7,
+            "count": 200
+          }
+        },
+          {
+            "id" : 202,
+            "title": " Women Nike Air Max 270",
+            "price": 150.00,
+            "description": "Nike Air Max 270 with large Air unit for cushioning and stylish design.",
+            "category": "footwear",
+            "color": "pink",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJH9Iz-0zP1GGpaA8X7LJd_5QHCiWn2rmIWw&s",
+            "rating": {
+              "rate": 4.8,
+              "count": 300
+            }
+          },
+          {
+            "id" : 203,
+            "title": "Women Adidas Ultraboost 22",
+            "price": 180.00,
+            "description": "Adidas Ultraboost 22 with Boost midsole and Primeknit upper for comfort and energy return.",
+            "category": "footwear",
+            "color": "white",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVRIhWyPUwO0xM9PQZreqVZsj0VRZjG0pBjw&s",
+            "rating": {
+              "rate": 4.7,
+              "count": 280
+            }
+          },
+          {
+            "id" : 204,
+            "title": "Women Puma Cali Sport Sneakers",
+            "price": 90.00,
+            "description": "Puma Cali Sport sneakers with retro design and comfortable cushioning.",
+            "category": "footwear",
+            "color": "white",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC-PXnAA1a3juWhha9Q5P316IRuFvTMmyaXQ&s",
+            "rating": {
+              "rate": 4.5,
+              "count": 150
+            }
+          },
+          {
+            "id" : 205,
+            "title": "Women New Balance Fresh Foam Roav",
+            "price": 110.00,
+            "description": "New Balance Fresh Foam Roav with plush cushioning and breathable mesh upper.",
+            "category": "footwear",
+            "color": "grey",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoVYi-D7A-z25g_fckU8OMZP-Qm9GlvHdfw&s",
+            "rating": {
+              "rate": 4.6,
+              "count": 170
+            }
+          },
+          {
+            "id" : 206,
+            "title": " Women Reebok Club C 85",
+            "price": 75.00,
+            "description": "Reebok Club C 85 with soft leather upper and classic design.",
+            "category": "footwear",
+            "color": "white",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40Up9Y0gpuYrUI5chzGQ4PmIlpmGn6ulTAw&s",
+            "rating": {
+              "rate": 4.4,
+              "count": 140
+            }
+          },
+          {
+            "id" : 207,
+            "title": "Women ASICS Gel-Nimbus 23",
+            "price": 160.00,
+            "description": "ASICS Gel-Nimbus 23 running shoes with gel cushioning and breathable upper.",
+            "category": "footwear",
+            "color": "pink",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSVaNzDMX0bMaOL2HLUQDeQ1q8W9XnfwCk3Q&s",
+            "rating": {
+              "rate": 4.7,
+              "count": 200
+            }
+          },
+          {
+            "id" : 208,
+            "title": "Women Under Armour HOVR Phantom 2",
+            "price": 140.00,
+            "description": "Under Armour HOVR Phantom 2 with energy return and comfortable fit.",
+            "category": "footwear",
+            "color": "black",
+            "size": "7",
+            "image": "https://www.underarmour.in/media/catalog/product/cache/fe00ef9a43201311b84f219ced64b808/7/_/7.5-120250219114435589.jpg",
+            "rating": {
+              "rate": 4.5,
+              "count": 160
+            }
+          },
+          {
+            "id" : 209,
+            "title": "Women Vans Classic Slip-On",
+            "price": 50.00,
+            "description": "Vans Classic Slip-On shoes with easy slip-on design and durable canvas upper.",
+            "category": "footwear",
+            "color": "black",
+            "size": "7",
+            "image": "https://i.pinimg.com/736x/c6/2f/1f/c62f1f4aeab4c721892592b04a632ab1.jpg",
+            "rating": {
+              "rate": 4.6,
+              "count": 210
+            }
+          },
+          {
+            "id" : 210,
+            "title": "Women Converse Chuck Taylor All Star Low",
+            "price": 55.00,
+            "description": "Converse Chuck Taylor All Star low-top sneakers with canvas upper and rubber sole.",
+            "category": "footwear",
+            "color": "white",
+            "size": "8",
+            "image": "https://www.converse.in/media/catalog/product/5/6/560251c_01_1.jpg",
+            "rating": {
+              "rate": 4.7,
+              "count": 230
+            }
+          },
+          {
+            "id" : 211,
+            "title": "Women Timberland Courmayeur Valley Boots",
+            "price": 180.00,
+            "description": "Timberland Courmayeur Valley waterproof boots with premium leather and rugged sole.",
+            "category": "footwear",
+            "color": "brown",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgKpeuJc9dbDIq0GV5vD5ME3cZO2-y6ybdg&s",
+            "rating": {
+              "rate": 4.8,
+              "count": 190
+            }
+          },
+          {
+            "id" : 212,
+            "title": "Women Skechers D'Lites",
+            "price": 65.00,
+            "description": "Skechers D'Lites with lightweight design and comfortable cushioning.",
+            "category": "footwear",
+            "color": "white",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdTbSibY3Dgch_3tjuXLxpksNwKM3mt6m8A&s",
+            "rating": {
+              "rate": 4.4,
+              "count": 140
+            }
+          },
+          {
+            "id" : 213,
+            "title": "Women Columbia Redmond Waterproof Hiking Shoes",
+            "price": 90.00,
+            "description": "Columbia Redmond waterproof hiking shoes with durable construction and excellent traction.",
+            "category": "footwear",
+            "color": "grey",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2vbVtDoq9ZzSHUKdaBbZNQ-JI7U1PGVA_qw&s",
+            "rating": {
+              "rate": 4.5,
+              "count": 130
+            }
+          },
+          {
+            "id" : 214,
+            "title": "Women Merrell Moab 2 Vent Hiking Shoes",
+            "price": 110.00,
+            "description": "Merrell Moab 2 Vent hiking shoes with breathable mesh and Vibram sole for superior grip.",
+            "category": "footwear",
+            "color": "tan",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_7lU-VMLwqWT9PzIa4GA4Bb7QbCOED-9-g&s",
+            "rating": {
+              "rate": 4.6,
+              "count": 140
+            }
+          },
+          {
+            "id" : 215,
+            "title": "Women Brooks Ghost 14 Running Shoes",
+            "price": 130.00,
+            "description": "Brooks Ghost 14 running shoes with soft cushioning and smooth transitions for long runs.",
+            "category": "footwear",
+            "color": "blue",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHp2xElG6fHZk2ccKzIwLSCZSnXM1O8VYnSw&s",
+            "rating": {
+              "rate": 4.7,
+              "count": 210
+            }
+          },
+          {
+            "id" : 216,
+            "title": "Women Salomon Speedcross 5 Trail Running Shoes",
+            "price": 150.00,
+            "description": "Salomon Speedcross 5 trail running shoes with aggressive grip and lightweight design.",
+            "category": "footwear",
+            "color": "black",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7aaG6HTKZiAB2Brq7Zf8O-6wdjX4pubWWww&s",
+            "rating": {
+              "rate": 4.8,
+              "count": 190
+            }
+          },
+          {
+            "id" : 217,
+            "title": "Women Nike React Infinity Run Flyknit",
+            "price": 160.00,
+            "description": "Nike React Infinity Run Flyknit running shoes with soft cushioning and breathable Flyknit upper.",
+            "category": "footwear",
+            "color": "purple",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDW64FS9KWrLpMNkivH5QvV-lW9VHstVianQ&s",
+            "rating": {
+              "rate": 4.7,
+              "count": 200
+            }
+          },
+          {
+            "id" : 218,
+            "title": "Women ASICS Gel-Kayano 27",
+            "price": 160.00,
+            "description": "ASICS Gel-Kayano 27 running shoes with gel cushioning and supportive fit for stability.",
+            "category": "footwear",
+            "color": "pink",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUzTP_ON_LG37TGGXR16dfCkiRNT6ozoP3Q&s",
+            "rating": {
+              "rate": 4.7,
+              "count": 180
+            }
+          },
+          {
+            "id" : 219,
+            "title": "Women Steve Madden Cliff Sneakers",
+            "price": 85.00,
+            "description": "Steve Madden Cliff sneakers with trendy design and comfortable fit.",
+            "category": "footwear",
+            "color": "white",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1d7WKztTknnaQChH3ctuAqFzVkLmTI0cy1w&s",
+            "rating": {
+              "rate": 4.4,
+              "count": 150
+            }
+          },
+          {
+            "id" : 220,
+            "title": "Women Toms Classic Alpargata",
+            "price": 50.00,
+            "description": "Toms Classic Alpargata slip-on shoes with canvas upper and cushioned insole.",
+            "category": "footwear",
+            "color": "blue",
+            "size": "8",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUO84aZdrIMAuYe4uiPYP2LYv8gcJsvV-Yw&s",
+            "rating": {
+              "rate": 4.5,
+              "count": 140
+            }
+          },
+          {
+            "id" : 221,
+            "title": "Women Birkenstock Arizona Sandals",
+            "price": 100.00,
+            "description": "Birkenstock Arizona sandals with contoured cork footbed and adjustable straps.",
+            "category": "footwear",
+            "color": "brown",
+            "size": "7",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCvKvjvFz-kKQLZKRJRHaQJKChwEL69h4oAA&s",
+            "rating": {
+              "rate": 4.6,
+              "count": 160
+            }
+          },
+          {
+            "id": 222,
+            "title": "Red Casual Checked Shirt",
+            "price": 29.99,
+            "description": "Comfortable cotton casual shirt in vibrant red checks. Ideal for casual outings.",
+            "category": "men's clothing",
+            "color": "red",
+            "size": "medium",
+            "image": "https://img.tatacliq.com/images/i9/437Wx649H/MP000000016434344_437Wx649H_202302080406081.jpeg",
+            "rating": {
+              "rate": 4.5,
+              "count": 150
+            }
+          },
+          {
+            "id": 223,
+            "title": "Blue Linen Slim Fit Shirt",
+            "price": 35.50,
+            "description": "Lightweight and breathable blue linen shirt, perfect for summer days.",
+            "category": "men's clothing",
+            "color": "blue",
+            "size": "large",
+            "image": "https://levi.in/cdn/shop/files/198830312_01_Style_Shot_4b68f478-035e-4c59-81b7-555cfb05f70b.jpg?v=1712743007",
+            "rating": {
+              "rate": 4.6,
+              "count": 180
+            }
+          },
+          {
+            "id": 224,
+            "title": "Green Formal Button-Down Shirt",
+            "price": 32.99,
+            "description": "A sleek green formal shirt with a crisp collar, perfect for office wear.",
+            "category": "men's clothing",
+            "color": "green",
+            "size": "small",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpwPMZXuewldMYZp4FVZAbf2rprVlfJvQdQ&s",
+            "rating": {
+              "rate": 4.4,
+              "count": 100
+            }
+          },
+          {
+            "id": 225,
+            "title": "Black Flannel Check Shirt",
+            "price": 34.99,
+            "description": "Classic black flannel shirt with a warm and rugged design.",
+            "category": "men's clothing",
+            "color": "black",
+            "size": "extra large",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWfGnySmE26vCvKgSbLZTMhCuPHlQBDmGdA&s",
+            "rating": {
+              "rate": 4.8,
+              "count": 220
+            }
+          },
+          {
+            "id": 226,
+            "title": "Red Formal Slim Shirt",
+            "price": 31.49,
+            "description": "Tailored red formal shirt, ideal for meetings and formal occasions.",
+            "category": "men's clothing",
+            "color": "red",
+            "size": "large",
+            "image": "https://rukminim3.flixcart.com/image/850/1000/shirt/h/w/h/12001red-english-navy-42-original-imaezh48h3gfnczr.jpeg?q=20&crop=false",
+            "rating": {
+              "rate": 4.3,
+              "count": 95
+            }
+          },
+          {
+            "id": 227,
+            "title": "Green Linen Half Sleeve Shirt",
+            "price": 28.90,
+            "description": "Stylish green half-sleeve linen shirt, cool and breathable fabric.",
+            "category": "men's clothing",
+            "color": "green",
+            "size": "medium",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx5z1kRqobqxhUO6DASB__SbcxMLZrq6LTLQ&s",
+            "rating": {
+              "rate": 4.5,
+              "count": 125
+            }
+          },
+          {
+            "id": 228,
+            "title": "Blue Checked Casual Shirt",
+            "price": 30.00,
+            "description": "Trendy blue checked shirt perfect for day-to-day wear.",
+            "category": "men's clothing",
+            "color": "blue",
+            "size": "small",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmSUoolz5nG9q6fhy9SVPvAB9jg3LtqZ5zA&s",
+            "rating": {
+              "rate": 4.4,
+              "count": 170
+            }
+          },
+          {
+            "id": 229,
+            "title": "Black Cotton Casual Shirt",
+            "price": 27.99,
+            "description": "Minimal black casual shirt with button placket and turn-down collar.",
+            "category": "men's clothing",
+            "color": "black",
+            "size": "medium",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMg0isG72dcZjVUhiN_R7B0lJpmFEL4E9qrQ&s",
+            "rating": {
+              "rate": 4.2,
+              "count": 80
+            }
+          },
+          {
+            "id": 230,
+            "title": "Red Flannel Shirt",
+            "price": 33.25,
+            "description": "Warm and soft red flannel shirt, perfect for colder months.",
+            "category": "men's clothing",
+            "color": "red",
+            "size": "large",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqsNRjqqG2VuB7TrjIBSm1fQFRHbODps3wQ&s",
+            "rating": {
+              "rate": 4.6,
+              "count": 135
+            }
+          },
+          {
+            "id": 231,
+            "title": "Blue Formal Cotton Shirt",
+            "price": 36.00,
+            "description": "Premium blue cotton formal shirt with a crisp, neat finish.",
+            "category": "men's clothing",
+            "color": "blue",
+            "size": "extra large",
+            "image": "https://www.hancockfashion.com/cdn/shop/files/5532Rblue40_7.jpg?v=1734412149",
+            "rating": {
+              "rate": 4.7,
+              "count": 200
+            }
+          },
+          {
+            "id": 232,
+            "title": "Green Casual Slim Fit Shirt",
+            "price": 29.99,
+            "description": "Casual slim-fit green shirt, versatile for day and night wear.",
+            "category": "men's clothing",
+            "color": "green",
+            "size": "large",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5HMyYQtZWpei77fhH6uu0o23fSMztfonTRBB3kIbK_1nKsXUZvt-QnkRDNWDVvIYh20&usqp=CAU",
+            "rating": {
+              "rate": 4.3,
+              "count": 105
+            }
+          },
+          {
+            "id": 233,
+            "title": "Black Striped Formal Shirt",
+            "price": 38.50,
+            "description": "Stylish black formal shirt with subtle stripes, professional look.",
+            "category": "men's clothing",
+            "color": "black",
+            "size": "medium",
+            "image": "https://blackberrys.com/cdn/shop/files/Luxe_Formal_Black_Stripe_Shirt_Delta-LS013576Z1-image1.jpg?v=1731412191",
+            "rating": {
+              "rate": 4.5,
+              "count": 145
+            }
+          },
+          {
+            "id": 234,
+            "title": "Red Oxford Formal Shirt",
+            "price": 34.95,
+            "description": "Classy red oxford formal shirt, perfect for business events.",
+            "category": "men's clothing",
+            "color": "red",
+            "size": "medium",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrHXjYK0FB2hB7HOFgYvuQOhrs7df9u444OQ&s",
+            "rating": {
+              "rate": 4.4,
+              "count": 88
+            }
+          },
+          {
+            "id": 235,
+            "title": "Blue Linen Full Sleeve Shirt",
+            "price": 37.10,
+            "description": "Soft and breathable blue full-sleeve linen shirt for comfort.",
+            "category": "men's clothing",
+            "color": "blue",
+            "size": "small",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4OmgevnSKd2aUEgK7_tnlLvFeSUMtYPDHQ&s",
+            "rating": {
+              "rate": 4.6,
+              "count": 165
+            }
+          },
+          {
+            "id": 236,
+            "title": "Green Flannel Checked Shirt",
+            "price": 31.50,
+            "description": "Rustic green flannel shirt with thick, warm fabric.",
+            "category": "men's clothing",
+            "color": "green",
+            "size": "extra large",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbPzBtOO47umYr4GdrvVEitvr0Rl16Z3MIQQ&s",
+            "rating": {
+              "rate": 4.7,
+              "count": 190
+            }
+          },
+          {
+            "id": 237,
+            "title": "Black Casual Solid Shirt",
+            "price": 29.00,
+            "description": "Versatile black solid shirt suitable for any occasion.",
+            "category": "men's clothing",
+            "color": "black",
+            "size": "large",
+            "image": "https://rukminim2.flixcart.com/image/850/1000/l44hyfk0/shirt/5/p/a/s-black-02-pepzo-original-imagf3a8aqfzgjvt.jpeg?q=20&crop=false",
+            "rating": {
+              "rate": 4.3,
+              "count": 90
+            }
+          },
+          {
+            "id": 238,
+            "title": "Red Striped Cotton Shirt",
+            "price": 33.80,
+            "description": "Bold red shirt with horizontal white stripes for a trendy look.",
+            "category": "men's clothing",
+            "color": "red",
+            "size": "small",
+            "image": "https://imagescdn.thecollective.in/img/app/product/9/907131-11185366.jpg?w=500&auto=format",
+            "rating": {
+              "rate": 4.5,
+              "count": 110
+            }
+          },
+          {
+            "id": 239,
+            "title": "Blue Slim Fit Office Shirt",
+            "price": 35.75,
+            "description": "Elegant blue office wear shirt, slim fit design.",
+            "category": "men's clothing",
+            "color": "blue",
+            "size": "medium",
+            "image": "https://diners.com.pk/cdn/shop/products/AD-27077-L-BLUE-RS-2990-01.jpg?v=1686084422",
+            "rating": {
+              "rate": 4.6,
+              "count": 155
+            }
+          },
+          {
+            "id": 240,
+            "title": "Green Cotton Casual Shirt",
+            "price": 30.00,
+            "description": "Comfortable green cotton shirt for a laid-back day.",
+            "category": "men's clothing",
+            "color": "green",
+            "size": "small",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQby3aCnANPTiNKgFRTZuTkQRgsmtMaK3303tnYlZf2KQo0bFjWd2R7I58t_QFBrC8pWyE&usqp=CAU",
+            "rating": {
+              "rate": 4.3,
+              "count": 98
+            }
+          },
+          {
+            "id": 241,
+            "title": "Black Linen Full Sleeve Shirt",
+            "price": 37.99,
+            "description": "Full-sleeve black linen shirt with a classy finish.",
+            "category": "men's clothing",
+            "color": "black",
+            "size": "large",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr7J3h6IC577JwD1FetwZIHcMeC9-3BecUcdA8R-jUH-hteiRu33V-yjkE9qwXcOS9V8c&usqp=CAU",
+            "rating": {
+              "rate": 4.8,
+              "count": 210
+            }
+          }
+        
+      
+       
+  
+      ]
+}
