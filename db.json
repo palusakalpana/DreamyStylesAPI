@@ -1,356 +1,7 @@
 {
     "products": [
      
-      {
-        "id": 1,
-        "title": "Adidas Classic Backpack",
-        "price": 39.95,
-        "description": "A simple yet spacious Adidas backpack with adjustable shoulder straps and a front zip pocket.",
-        "category": "men's clothing",
-        "color": "red",
-        "size": "small",
-        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/dddcdca88d3043e6ae04521ef2ee8c50_9366/Adicolor_Backpack_Burgundy_IX7455_01_standard.jpg",
-        "rating": {
-          "rate": 4.5,
-          "count": 150
-        }
-      },
-      {
-        "id": 2,
-        "title": "Nike Sportswear Backpack",
-        "price": 45.99,
-        "description": "Durable Nike backpack designed for sports and daily use. Features multiple compartments and a comfortable back panel.",
-        "category": "men's clothing",
-        "color": "black",
-        "size": "medium",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20210729/WOYS/6102ce38f997ddb3123f4229/-473Wx593H-460899217-black-MODEL2.jpg",
-        "rating": {
-          "rate": 4.3,
-          "count": 80
-        }
-      },
-      {
-        "id": 3,
-        "title": "Puma Unisex Backpack",
-        "price": 49.99,
-        "description": "Versatile Puma backpack, perfect for school or travel. Features a main compartment and side pockets for bottles.",
-        "category": "women's clothing",
-        "color": "blue",
-        "size": "large",
-        "image": "https://m.media-amazon.com/images/I/81oOez-DdUL._AC_UY1100_.jpg",
-        "rating": {
-          "rate": 4.2,
-          "count": 120
-        }
-      },
-      {
-        "id": 4,
-        "title": "Under Armour Hustle 4.0 Backpack",
-        "price": 64.99,
-        "description": "A stylish and functional backpack from Under Armour. Padded laptop sleeve and water-resistant fabric.",
-        "category": "men's clothing",
-        "color": "grey",
-        "size": "medium",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20201029/9t3v/5f99ce3ef997dd8c837da9aa/-473Wx593H-460754215-black-MODEL.jpg",
-        "rating": {
-          "rate": 4.8,
-          "count": 200
-        }
-      },
-      {
-        "id": 5,
-        "title": "Eastpak Padded Pak'r Backpack",
-        "price": 70.00,
-        "description": "A classic and durable backpack by Eastpak. Great for everyday use with ample storage space.",
-        "category": "women's clothing",
-        "color": "pink",
-        "size": "small",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjx63RNr9L91lU0JkZQi_hEkSK7ZuWpyHyg&s",
-        "rating": {
-          "rate": 4.5,
-          "count": 180
-        }
-      },
-      {
-        "id": 6,
-        "title": "The North Face Jester Backpack",
-        "price": 55.99,
-        "description": "This stylish backpack from The North Face features ergonomic shoulder straps and a padded laptop sleeve.",
-        "category": "men's clothing",
-        "color": "black",
-        "size": "large",
-        "image": "https://m.media-amazon.com/images/I/91bBW1+3JJL._AC_UY1100_.jpg",
-        "rating": {
-          "rate": 4.7,
-          "count": 210
-        }
-      },
-      {
-        "id": 7,
-        "title": "Samsonite Openroad Laptop Backpack",
-        "price": 89.95,
-        "description": "A premium laptop backpack from Samsonite with RFID blocking and a padded sleeve for laptops up to 15 inches.",
-        "category": "women's clothing",
-        "color": "brown",
-        "size": "medium",
-        "image": "https://i.pinimg.com/736x/7c/65/84/7c65847d8868945600b2150061fc26a7.jpg",
-        "rating": {
-          "rate": 4.6,
-          "count": 170
-        }
-      },
-      {
-        "id": 8,
-        "title": "Fjällräven Kånken Backpack",
-        "price": 80.00,
-        "description": "Classic Fjällräven Kånken backpack, perfect for outdoor adventures and daily wear. Features a spacious main compartment.",
-        "category": "women's clothing",
-        "color": "red",
-        "size": "medium",
-        "image": "https://modernquests.com/cdn/shop/files/fjallraven-kanken-laptop-backpack-15-ox-red-1.jpg?v=1690059881",
-        "rating": {
-          "rate": 4.7,
-          "count": 300
-        }
-      },
-      {
-        "id": 9,
-        "title": "Columbia Zigzag 2.0 Backpack",
-        "price": 55.00,
-        "description": "A durable and functional backpack for sports and outdoor activities. Includes a hydration sleeve.",
-        "category": "men's clothing",
-        "color": "blue",
-        "size": "large",
-        "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/Columbia/09jan2025/UU6312-465-1.jpg",
-        "rating": {
-          "rate": 4.3,
-          "count": 130
-        }
-      },
-      {
-        "id": 10,
-        "title": "Herschel Little America Backpack",
-        "price": 89.00,
-        "description": "Timeless design by Herschel. A spacious and stylish backpack with adjustable straps.",
-        "category": "women's clothing",
-        "color": "pink",
-        "size": "medium",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9anoOAEQeZFsA4R2_6XkLliM7XFHwaRhuA&s",
-        "rating": {
-          "rate": 4.8,
-          "count": 250
-        }
-      },
-      {
-        "id": 11,
-        "title": "L.L. Bean Deluxe Book Pack",
-        "price": 49.95,
-        "description": "Classic L.L. Bean book pack designed for school, with plenty of compartments and sturdy build.",
-        "category": "women's clothing",
-        "color": "black",
-        "size": "small",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzC32Tq56WjZjUDfvd-44r3HlvOmQsf75Ctw&s",
-        "rating": {
-          "rate": 4.4,
-          "count": 90
-        }
-      },
-      {
-        "id": 12,
-        "title": "Targus CitySmart Backpack",
-        "price": 74.99,
-        "description": "Targus CitySmart backpack designed for business professionals with a padded compartment for laptops.",
-        "category": "women's clothing",
-        "color": "brown",
-        "size": "large",
-        "image": "https://cluse.com/cdn/shop/files/CX04502_frontal.jpg?v=1723799450&width=1080",
-        "rating": {
-          "rate": 4.5,
-          "count": 160
-        }
-      },
-      {
-        "id": 13,
-        "title": "Jack Wolfskin Moab Jam 24 Backpack",
-        "price": 59.00,
-        "description": "A high-quality outdoor backpack from Jack Wolfskin. Perfect for hiking with hydration system compatibility.",
-        "category": "women's clothing",
-        "color": "grey",
-        "size": "large",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL52A3797dsLVoLIQLrYaHeiC53rHXUBLDwA&s",
-        "rating": {
-          "rate": 4.4,
-          "count": 110
-        }
-      },
-      {
-        "id": 14,
-        "title": "Patagonia Arbor Grande Backpack",
-        "price": 99.00,
-        "description": "Patagonia’s Arbor Grande backpack offers plenty of room and eco-friendly materials.",
-        "category": "unisex",
-        "color": "red",
-        "size": "medium",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoNHbYrqYsCU7xy7drZDei2XEtdQjnnCyZQ&s",
-        "rating": {
-          "rate": 4.7,
-          "count": 120
-        }
-      },
-      {
-        "id": 15,
-        "title": "Carhartt Legacy 17 Inch Laptop Backpack",
-        "price": 89.99,
-        "description": "Rugged Carhartt backpack for laptop protection, with extra durability for outdoor work and adventures.",
-        "category": "men's clothing",
-        "color": "brown",
-        "size": "large",
-        "image": "https://www.backpacks4less.com/cdn/shop/products/81k7QGwZONL_1024x1024.jpg?v=1578369560",
-        "rating": {
-          "rate": 4.5,
-          "count": 220
-        }
-      },
-      {
-        "id": 16,
-        "title": "Osprey Daylite Plus Backpack",
-        "price": 65.00,
-        "description": "Compact and functional backpack for day hikes and short trips. Compatible with Osprey’s hydration system.",
-        "category": "unisex",
-        "color": "grey",
-        "size": "small",
-        "image": "https://threadfellows.com/cdn/shop/products/osprey-bags-one-size-black-osprey-daylite-plus-backpack-28279248125975_1024x1024.jpg?v=1742390992",
-        "rating": {
-          "rate": 4.6,
-          "count": 140
-        }
-      },
-      {
-        "id": 17,
-        "title": "Eddie Bauer Stowaway Daypack",
-        "price": 39.95,
-        "description": "Packable Eddie Bauer backpack that folds into a small pouch for easy storage. Ideal for travel.",
-        "category": "women's clothing",
-        "color": "blue",
-        "size": "medium",
-        "image": "https://i.pinimg.com/736x/e0/a7/5c/e0a75cf528914f6697f02d3b7062d211.jpg",
-        "rating": {
-          "rate": 4.4,
-          "count": 130
-        }
-      },
-      {
-        "id": 18,
-        "title": "Deuter Aircontact Lite 45+10 Backpack",
-        "price": 179.00,
-        "description": "A high-performance hiking backpack by Deuter. Features Aircontact ventilation and plenty of space.",
-        "category": "unisex",
-        "color": "black",
-        "size": "large",
-        "image": "https://5.imimg.com/data5/EQ/JK/MY-40809949/deuter-trekking-aircontact-45-10-granite-black.jpg",
-        "rating": {
-          "rate": 4.7,
-          "count": 85
-        }
-      },
-      {
-        "id": 19,
-        "title": "Timbuk2 Classic Messenger Bag",
-        "price": 109.00,
-        "description": "A classic messenger bag with durable materials and adjustable straps for comfort and convenience.",
-        "category": "unisex",
-        "color": "brown",
-        "size": "medium",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI15IbkXJZiahyeAZaPrNKih_HCSTxgi8YzQ&s",
-        "rating": {
-          "rate": 4.5,
-          "count": 140
-        }
-      },
-      {
-        "id": 20,
-        "title": "Targus Laptop Backpack",
-        "price": 39.99,
-        "description": "Affordable and practical Targus backpack with padded compartments for laptops and tablets.",
-        "category": "men's clothing",
-        "color": "grey",
-        "size": "small",
-        "image": "https://m.media-amazon.com/images/I/61dUGkMvkwL._AC_UF1000,1000_QL80_.jpg",
-        "rating": {
-          "rate": 4.2,
-          "count": 180
-        }
-      },
-      {
-        "id": 21,
-        "title": "High-Waisted Skinny Jeans",
-        "price": 39.99,
-        "description": "Classic high-waisted skinny jeans with a comfortable stretch fit. Perfect for casual outings.",
-        "category": "women's clothing",
-        "color": "blue",
-        "size": "medium",
-        "image": "https://freakins.com/cdn/shop/files/Aniwarya01525-Edit_54ec0cce-3005-4ec8-abfb-c6781cb95cad.jpg",
-        "rating": {
-            "rate": 4.5,
-            "count": 120
-        }
-    },
-    {
-      "id": 22,
-        "title": "Wide-Leg Palazzo Pants",
-        "price": 29.99,
-        "description": "Stylish wide-leg palazzo pants made from lightweight fabric. Ideal for both casual and formal occasions.",
-        "category": "women's clothing",
-        "color": "beige",
-        "size": "large",
-        "image": "https://assets.ajio.com/medias/sys_master/root/20230906/fkYp/64f837d1afa4cf41f5b8e084/-473Wx593H-461117763-beige-MODEL.jpg",
-        "rating": {
-            "rate": 4.2,
-            "count": 95
-        }
-    },
-    {
-      "id": 23,
-        "title": "Athletic Jogger Pants",
-        "price": 34.99,
-        "description": "Comfortable jogger pants designed for workouts and lounging. Features an elastic waistband and side pockets.",
-        "category": "women's clothing",
-        "color": "gray",
-        "size": "small",
-        "image": "https://lovableindia.in/cdn/shop/files/8905700069635-3.jpg",
-        "rating": {
-            "rate": 4.7,
-            "count": 150
-        }
-    },
-    {
-      "id": 24,
-        "title": "Floral Print Culottes",
-        "price": 24.99,
-        "description": "Chic floral print culottes with a flowy design. Perfect for summer outings.",
-        "category": "women's clothing",
-        "color": "white",
-        "size": "medium",
-        "image": "https://wforwoman.com/cdn/shop/files/18FE61022-51304_5.jpg",
-        "rating": {
-            "rate": 4.4,
-            "count": 85
-        }
-    },
-    {
-      "id": 25,
-        "title": "Leather Pencil Skirt",
-        "price": 49.99,
-        "description": "Elegant leather pencil skirt with a sleek finish. Suitable for office wear or evening events.",
-        "category": "women's clothing",
-        "color": "black",
-        "size": "medium",
-        "image": "https://cdn.sosandar.com/media/catalog/product/cache/0ad62aa88f50338ba969372be71afacb/w/e/web_2408_105_a24tw016gn0024_a23sl011bk0001_105_007_2_1.jpg",
-        "rating": {
-            "rate": 4.6,
-            "count": 60
-        }
-    },
+     
     {
       "id": 26,
         "title": "Denim Shorts",
@@ -589,6 +240,7 @@
             "count": 75
         }
     },
+    
     {
       "id": 43,
         "title": "Plaid Mini Skirt",
@@ -1022,6 +674,356 @@
             "count": 180
           }
         },
+         {
+        "id": 1,
+        "title": "Adidas Classic Backpack",
+        "price": 39.95,
+        "description": "A simple yet spacious Adidas backpack with adjustable shoulder straps and a front zip pocket.",
+        "category": "men's clothing",
+        "color": "red",
+        "size": "small",
+        "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/dddcdca88d3043e6ae04521ef2ee8c50_9366/Adicolor_Backpack_Burgundy_IX7455_01_standard.jpg",
+        "rating": {
+          "rate": 4.5,
+          "count": 150
+        }
+      },
+      {
+        "id": 2,
+        "title": "Nike Sportswear Backpack",
+        "price": 45.99,
+        "description": "Durable Nike backpack designed for sports and daily use. Features multiple compartments and a comfortable back panel.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20210729/WOYS/6102ce38f997ddb3123f4229/-473Wx593H-460899217-black-MODEL2.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 80
+        }
+      },
+      {
+        "id": 3,
+        "title": "Puma Unisex Backpack",
+        "price": 49.99,
+        "description": "Versatile Puma backpack, perfect for school or travel. Features a main compartment and side pockets for bottles.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/81oOez-DdUL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 120
+        }
+      },
+      {
+        "id": 4,
+        "title": "Under Armour Hustle 4.0 Backpack",
+        "price": 64.99,
+        "description": "A stylish and functional backpack from Under Armour. Padded laptop sleeve and water-resistant fabric.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "medium",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20201029/9t3v/5f99ce3ef997dd8c837da9aa/-473Wx593H-460754215-black-MODEL.jpg",
+        "rating": {
+          "rate": 4.8,
+          "count": 200
+        }
+      },
+      {
+        "id": 5,
+        "title": "Eastpak Padded Pak'r Backpack",
+        "price": 70.00,
+        "description": "A classic and durable backpack by Eastpak. Great for everyday use with ample storage space.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJjx63RNr9L91lU0JkZQi_hEkSK7ZuWpyHyg&s",
+        "rating": {
+          "rate": 4.5,
+          "count": 180
+        }
+      },
+      {
+        "id": 6,
+        "title": "The North Face Jester Backpack",
+        "price": 55.99,
+        "description": "This stylish backpack from The North Face features ergonomic shoulder straps and a padded laptop sleeve.",
+        "category": "men's clothing",
+        "color": "black",
+        "size": "large",
+        "image": "https://m.media-amazon.com/images/I/91bBW1+3JJL._AC_UY1100_.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 210
+        }
+      },
+      {
+        "id": 7,
+        "title": "Samsonite Openroad Laptop Backpack",
+        "price": 89.95,
+        "description": "A premium laptop backpack from Samsonite with RFID blocking and a padded sleeve for laptops up to 15 inches.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://i.pinimg.com/736x/7c/65/84/7c65847d8868945600b2150061fc26a7.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 170
+        }
+      },
+      {
+        "id": 8,
+        "title": "Fjällräven Kånken Backpack",
+        "price": 80.00,
+        "description": "Classic Fjällräven Kånken backpack, perfect for outdoor adventures and daily wear. Features a spacious main compartment.",
+        "category": "women's clothing",
+        "color": "red",
+        "size": "medium",
+        "image": "https://modernquests.com/cdn/shop/files/fjallraven-kanken-laptop-backpack-15-ox-red-1.jpg?v=1690059881",
+        "rating": {
+          "rate": 4.7,
+          "count": 300
+        }
+      },
+      {
+        "id": 9,
+        "title": "Columbia Zigzag 2.0 Backpack",
+        "price": 55.00,
+        "description": "A durable and functional backpack for sports and outdoor activities. Includes a hydration sleeve.",
+        "category": "men's clothing",
+        "color": "blue",
+        "size": "large",
+        "image": "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/Columbia/09jan2025/UU6312-465-1.jpg",
+        "rating": {
+          "rate": 4.3,
+          "count": 130
+        }
+      },
+      {
+        "id": 10,
+        "title": "Herschel Little America Backpack",
+        "price": 89.00,
+        "description": "Timeless design by Herschel. A spacious and stylish backpack with adjustable straps.",
+        "category": "women's clothing",
+        "color": "pink",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH9anoOAEQeZFsA4R2_6XkLliM7XFHwaRhuA&s",
+        "rating": {
+          "rate": 4.8,
+          "count": 250
+        }
+      },
+      {
+        "id": 11,
+        "title": "L.L. Bean Deluxe Book Pack",
+        "price": 49.95,
+        "description": "Classic L.L. Bean book pack designed for school, with plenty of compartments and sturdy build.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "small",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzC32Tq56WjZjUDfvd-44r3HlvOmQsf75Ctw&s",
+        "rating": {
+          "rate": 4.4,
+          "count": 90
+        }
+      },
+      {
+        "id": 12,
+        "title": "Targus CitySmart Backpack",
+        "price": 74.99,
+        "description": "Targus CitySmart backpack designed for business professionals with a padded compartment for laptops.",
+        "category": "women's clothing",
+        "color": "brown",
+        "size": "large",
+        "image": "https://cluse.com/cdn/shop/files/CX04502_frontal.jpg?v=1723799450&width=1080",
+        "rating": {
+          "rate": 4.5,
+          "count": 160
+        }
+      },
+      {
+        "id": 13,
+        "title": "Jack Wolfskin Moab Jam 24 Backpack",
+        "price": 59.00,
+        "description": "A high-quality outdoor backpack from Jack Wolfskin. Perfect for hiking with hydration system compatibility.",
+        "category": "women's clothing",
+        "color": "grey",
+        "size": "large",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL52A3797dsLVoLIQLrYaHeiC53rHXUBLDwA&s",
+        "rating": {
+          "rate": 4.4,
+          "count": 110
+        }
+      },
+      {
+        "id": 14,
+        "title": "Patagonia Arbor Grande Backpack",
+        "price": 99.00,
+        "description": "Patagonia’s Arbor Grande backpack offers plenty of room and eco-friendly materials.",
+        "category": "unisex",
+        "color": "red",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXoNHbYrqYsCU7xy7drZDei2XEtdQjnnCyZQ&s",
+        "rating": {
+          "rate": 4.7,
+          "count": 120
+        }
+      },
+      {
+        "id": 15,
+        "title": "Carhartt Legacy 17 Inch Laptop Backpack",
+        "price": 89.99,
+        "description": "Rugged Carhartt backpack for laptop protection, with extra durability for outdoor work and adventures.",
+        "category": "men's clothing",
+        "color": "brown",
+        "size": "large",
+        "image": "https://www.backpacks4less.com/cdn/shop/products/81k7QGwZONL_1024x1024.jpg?v=1578369560",
+        "rating": {
+          "rate": 4.5,
+          "count": 220
+        }
+      },
+      {
+        "id": 16,
+        "title": "Osprey Daylite Plus Backpack",
+        "price": 65.00,
+        "description": "Compact and functional backpack for day hikes and short trips. Compatible with Osprey’s hydration system.",
+        "category": "unisex",
+        "color": "grey",
+        "size": "small",
+        "image": "https://threadfellows.com/cdn/shop/products/osprey-bags-one-size-black-osprey-daylite-plus-backpack-28279248125975_1024x1024.jpg?v=1742390992",
+        "rating": {
+          "rate": 4.6,
+          "count": 140
+        }
+      },
+      {
+        "id": 17,
+        "title": "Eddie Bauer Stowaway Daypack",
+        "price": 39.95,
+        "description": "Packable Eddie Bauer backpack that folds into a small pouch for easy storage. Ideal for travel.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://i.pinimg.com/736x/e0/a7/5c/e0a75cf528914f6697f02d3b7062d211.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 130
+        }
+      },
+      {
+        "id": 18,
+        "title": "Deuter Aircontact Lite 45+10 Backpack",
+        "price": 179.00,
+        "description": "A high-performance hiking backpack by Deuter. Features Aircontact ventilation and plenty of space.",
+        "category": "unisex",
+        "color": "black",
+        "size": "large",
+        "image": "https://5.imimg.com/data5/EQ/JK/MY-40809949/deuter-trekking-aircontact-45-10-granite-black.jpg",
+        "rating": {
+          "rate": 4.7,
+          "count": 85
+        }
+      },
+      {
+        "id": 19,
+        "title": "Timbuk2 Classic Messenger Bag",
+        "price": 109.00,
+        "description": "A classic messenger bag with durable materials and adjustable straps for comfort and convenience.",
+        "category": "unisex",
+        "color": "brown",
+        "size": "medium",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI15IbkXJZiahyeAZaPrNKih_HCSTxgi8YzQ&s",
+        "rating": {
+          "rate": 4.5,
+          "count": 140
+        }
+      },
+      {
+        "id": 20,
+        "title": "Targus Laptop Backpack",
+        "price": 39.99,
+        "description": "Affordable and practical Targus backpack with padded compartments for laptops and tablets.",
+        "category": "men's clothing",
+        "color": "grey",
+        "size": "small",
+        "image": "https://m.media-amazon.com/images/I/61dUGkMvkwL._AC_UF1000,1000_QL80_.jpg",
+        "rating": {
+          "rate": 4.2,
+          "count": 180
+        }
+      },
+      {
+        "id": 21,
+        "title": "High-Waisted Skinny Jeans",
+        "price": 39.99,
+        "description": "Classic high-waisted skinny jeans with a comfortable stretch fit. Perfect for casual outings.",
+        "category": "women's clothing",
+        "color": "blue",
+        "size": "medium",
+        "image": "https://freakins.com/cdn/shop/files/Aniwarya01525-Edit_54ec0cce-3005-4ec8-abfb-c6781cb95cad.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 120
+        }
+    },
+    {
+      "id": 22,
+        "title": "Wide-Leg Palazzo Pants",
+        "price": 29.99,
+        "description": "Stylish wide-leg palazzo pants made from lightweight fabric. Ideal for both casual and formal occasions.",
+        "category": "women's clothing",
+        "color": "beige",
+        "size": "large",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20230906/fkYp/64f837d1afa4cf41f5b8e084/-473Wx593H-461117763-beige-MODEL.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 95
+        }
+    },
+    {
+      "id": 23,
+        "title": "Athletic Jogger Pants",
+        "price": 34.99,
+        "description": "Comfortable jogger pants designed for workouts and lounging. Features an elastic waistband and side pockets.",
+        "category": "women's clothing",
+        "color": "gray",
+        "size": "small",
+        "image": "https://lovableindia.in/cdn/shop/files/8905700069635-3.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 150
+        }
+    },
+    {
+      "id": 24,
+        "title": "Floral Print Culottes",
+        "price": 24.99,
+        "description": "Chic floral print culottes with a flowy design. Perfect for summer outings.",
+        "category": "women's clothing",
+        "color": "white",
+        "size": "medium",
+        "image": "https://wforwoman.com/cdn/shop/files/18FE61022-51304_5.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 85
+        }
+    },
+    {
+      "id": 25,
+        "title": "Leather Pencil Skirt",
+        "price": 49.99,
+        "description": "Elegant leather pencil skirt with a sleek finish. Suitable for office wear or evening events.",
+        "category": "women's clothing",
+        "color": "black",
+        "size": "medium",
+        "image": "https://cdn.sosandar.com/media/catalog/product/cache/0ad62aa88f50338ba969372be71afacb/w/e/web_2408_105_a24tw016gn0024_a23sl011bk0001_105_007_2_1.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 60
+        }
+    },
         {
           "id" : 74,
           "title": "The North Face Resolve 2 Jacket",
